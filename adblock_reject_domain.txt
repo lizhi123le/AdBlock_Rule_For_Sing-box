@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-11-17 22:21:32
+# Generated on: 2025-11-17 22:51:37
 # Generated AdBlock rules
-# Total entries: 112934
+# Total entries: 112936
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -58215,6 +58215,7 @@
 "jiramanage.lib-oa-1.net.daraz.com",
 "jiratwtelecom.azure.net.daraz.com",
 "jitsu.ixbt.com",
+"jitsu.ixbt.site",
 "jiujpc.asgoodasnew.fr",
 "jizpyy.bett1.ch",
 "jj203.equitablebank.ca",
@@ -83085,6 +83086,7 @@
 "sgtm.infobus.eu",
 "sgtm.innova3it.com.br",
 "sgtm.iu-fernstudium.de",
+"sgtm.ixbt.site",
 "sgtm.joga.dk",
 "sgtm.joinamble.com",
 "sgtm.joyspringvitamins.com",
