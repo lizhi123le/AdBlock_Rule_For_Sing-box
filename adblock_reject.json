@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -20256,7 +20255,6 @@
         "canadapgs.pearson.com",
         "canadapost.tt.omtrdc.net",
         "canadiandiscst.mywellnessoffer.com",
-        "canadiantire.tt.omtrdc.net",
         "candac.iridion.de",
         "candacetodd.stripchats.io",
         "candb.tt.omtrdc.net",
@@ -112943,5 +112941,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
