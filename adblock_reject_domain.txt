@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-11-18 23:24:20
+# Generated on: 2025-11-18 23:51:29
 # Generated AdBlock rules
-# Total entries: 112949
+# Total entries: 112954
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -31025,6 +31025,7 @@
 "desvendado.mayraakemi.com.br",
 "desvendado.militarpatriota.com.br",
 "detail.iaperformance.com.br",
+"detaillog-global-dual.coolhcloud.com",
 "details.pella.com",
 "detect.clearme.com",
 "detect.rayjump.com",
@@ -64116,6 +64117,7 @@
 "logperf.vnexpress.net",
 "logql.yahoo.co.jp",
 "logr-ingest.com",
+"logreport-global-dual.coolhcloud.com",
 "logrocket.com",
 "logs-ingress.svc.vinted.com",
 "logs-partners.coupang.com",
@@ -64157,6 +64159,7 @@
 "logtake.weidian.com",
 "logupdate.avlyun.sec.miui.com",
 "logz.io",
+"logz.tekiusa.com",
 "lohhp.champion.com",
 "lokcdn.com",
 "lokimaki.com",
@@ -91324,6 +91327,7 @@
 "stat.dealtime.com",
 "stat.dongqiudi.com",
 "stat.download.xunlei.com",
+"stat.dp.vocalbeats.com",
 "stat.duokanbox.com",
 "stat.eagleplatform.com",
 "stat.ecoiurislapagina.com",
@@ -101521,6 +101525,7 @@
 "tyafti.ullapopken.se",
 "tybfxw.puma.com",
 "tycoelectronicscorpo.tt.omtrdc.net",
+"tycollectproxy.tiyalive.com",
 "tycxtf1krprltx5l.hb.tt.omtrdc.net",
 "tyfmdrxgays2qin-p.clead.xyz",
 "tykqtr.clubemarisol.com.br",
