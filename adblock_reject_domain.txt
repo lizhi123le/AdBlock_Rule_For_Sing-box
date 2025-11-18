@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-11-18 20:43:28
+# Generated on: 2025-11-18 21:33:08
 # Generated AdBlock rules
-# Total entries: 112939
+# Total entries: 112943
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -13802,6 +13802,7 @@
 "analytics.adam.page",
 "analytics.adfreetime.com",
 "analytics.adjust.com",
+"analytics.adjust.io",
 "analytics.adjust.net.in",
 "analytics.adjust.world",
 "analytics.adobe.ly",
@@ -55329,6 +55330,7 @@
 "inetprocess.actonservice.com",
 "inf.clickpay.com",
 "inf.miui.com",
+"infinario.com",
 "infineontechnologies.tt.omtrdc.net",
 "infinitiheliosameric.tt.omtrdc.net",
 "infinitiheliosemea.tt.omtrdc.net",
@@ -63853,6 +63855,7 @@
 "log.snssdk.com",
 "log.strawpoll.com",
 "log.strm.yandex.ru",
+"log.suddenclean.com",
 "log.talkie-ai.com",
 "log.tbs.qq.com",
 "log.tf.co.kr",
@@ -99545,6 +99548,7 @@
 "tracking.adpinfo.com",
 "tracking.adpri.org",
 "tracking.adweb.co.kr",
+"tracking.affattr.com",
 "tracking.afffcompensation.com",
 "tracking.ai.rakuten.co.jp",
 "tracking.air-worldwide.com",
