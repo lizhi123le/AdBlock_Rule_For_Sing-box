@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -63894,6 +63895,7 @@
         "log1.wanmei.com",
         "log1.wtlogin.qq.com",
         "log16-normal-us-ttp.capcutapi.us",
+        "log2.ihubgo.info",
         "log2.musical.ly",
         "log2.perfectworldgames.com",
         "log2.radiko.jp",
@@ -92834,6 +92836,7 @@
         "stats.unnaturalhistorytv.com",
         "stats.unusualtourist.com",
         "stats.urbanfinn.com",
+        "stats.us-light-edge.com",
         "stats.useeffect.dev",
         "stats.uswitch.com",
         "stats.uticorp.com",
@@ -112961,6 +112964,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
