@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -97225,6 +97226,7 @@
         "tp.sieh-an.at",
         "tp.sieh-an.ch",
         "tp.sieh-an.de",
+        "tp.suppercacheimages.top",
         "tp.universal.at",
         "tp.waeschepur.de",
         "tp.witt-international.cz",
@@ -112964,6 +112966,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
