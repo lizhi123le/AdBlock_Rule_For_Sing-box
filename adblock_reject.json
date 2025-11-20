@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17631,6 +17630,7 @@
         "assets-v2.invaluable.com",
         "assets-v2.northsidesun.com",
         "assets.35mm.es",
+        "assets.9gtb.com",
         "assets.ahmybid.net",
         "assets.avadacom.com",
         "assets.ayp.vn",
@@ -20816,6 +20816,7 @@
         "cdn.krausefinancial.com",
         "cdn.laim.tv",
         "cdn.leightonbroadcasting.com",
+        "cdn.logbase.io",
         "cdn.luyten-98c.com",
         "cdn.mafyak.com",
         "cdn.masbpi.com",
@@ -30580,6 +30581,7 @@
         "data.testing.alditalk-kundenbetreuung.de",
         "data.testing.o2.de",
         "data.testing.whatsappsim.de",
+        "data.thoughtmetric.io",
         "data.tm-awx.com",
         "data.tmail.northeast.aaa.com",
         "data.todoalicante.es",
@@ -112970,5 +112972,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
