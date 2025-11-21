@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -94275,6 +94276,7 @@
         "t.hornetsports.com",
         "t.huskers.com",
         "t.hypers.com.cn",
+        "t.hyros.com",
         "t.icomms.origin.com.au",
         "t.illuma-tech.com",
         "t.imgur.com",
@@ -112975,6 +112977,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
