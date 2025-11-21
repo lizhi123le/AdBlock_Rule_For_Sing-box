@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-11-21 23:46:32
+# Generated on: 2025-11-22 00:26:46
 # Generated AdBlock rules
-# Total entries: 112974
+# Total entries: 112980
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -31032,6 +31032,7 @@
 "desvendado.mayraakemi.com.br",
 "desvendado.militarpatriota.com.br",
 "detail.iaperformance.com.br",
+"detaillog-global-dual.coolbcloud.com",
 "detaillog-global-dual.coolhcloud.com",
 "details.pella.com",
 "detect.clearme.com",
@@ -32273,6 +32274,7 @@
 "dtxtngytz5im1.cloudfront.net",
 "dtzru.colorescience.com",
 "dualstack-cgicol.amap.com",
+"dualstack-collection.rong-edge.com",
 "dualstack-logs.amap.com",
 "duamgl.magdeburger-jobanzeiger.de",
 "dubuque.townsquaremedia.info",
@@ -63927,6 +63929,7 @@
 "logcollection.ronghub.com",
 "logcollector.note.com",
 "logconfig.polarisoffice.com",
+"logdata.hatspotlight.asia",
 "logdev.openload.co",
 "logend.cookpad.com",
 "logevt.pubfinity.com",
@@ -64131,6 +64134,7 @@
 "logperf.vnexpress.net",
 "logql.yahoo.co.jp",
 "logr-ingest.com",
+"logreport-global-dual.coolbcloud.com",
 "logreport-global-dual.coolhcloud.com",
 "logrocket.com",
 "logs-ingress.svc.vinted.com",
@@ -82183,6 +82187,7 @@
 "seniorliving.wyndemerelcs.com",
 "senlvg.secretsdujeu.com",
 "sense.cliexa.com",
+"sensor.emolm.com",
 "sensor.grubhub.com",
 "sensors-log.dongqiudi.com",
 "sensors.ibreader.com",
@@ -107401,6 +107406,7 @@
 "wsicmo.bogsfootwear.com.au",
 "wsknow.net",
 "wsktql.mopar.eu",
+"wslog-global-dual.coolccloud.com",
 "wsmetrics.batch.com",
 "wsnjjj.arredinitaly.com",
 "wsnrfb.modlily.com",
