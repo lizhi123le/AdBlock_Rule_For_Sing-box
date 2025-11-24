@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -12421,6 +12420,7 @@
         "aebpi.tiffany.es",
         "aec.faro.com",
         "aec.intuit.com",
+        "aeg.offerup-apis.com",
         "aegis.miio.mx",
         "aegis.qq.com",
         "aehqk.tushbaby.com",
@@ -17687,6 +17687,7 @@
         "assets1.vero.com.au",
         "assets2.ihg.com",
         "assets2.terrischeer.com.au",
+        "assetsconfigcdn.org",
         "assetsvops-ns2.viviotech.net.daraz.com",
         "assezeconomania.myavlive.com",
         "assinatura.marketingbmg.bancobmg.com.br",
@@ -107190,6 +107191,7 @@
         "witchitafalls.townsquaremedia.info",
         "withyou.shorr.com",
         "wiuyjxbqhsxwpus-c.adktrack39.xyz",
+        "wix-engage-visitors-prod-6.firebaseio.com",
         "wixjcl.maginon.de",
         "wiz.sncf-connect.com",
         "wizaly.com",
@@ -112989,5 +112991,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
