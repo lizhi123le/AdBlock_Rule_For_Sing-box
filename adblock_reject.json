@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -68713,6 +68714,7 @@
         "partnersuccess.cisco.com",
         "partnersuccessmetrics.cisco.com",
         "pasco.actonservice.com",
+        "pasfox.co",
         "pasionhandball.xham.live",
         "pasta.esfile.duapps.com",
         "patcans.club",
@@ -106002,6 +106004,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
