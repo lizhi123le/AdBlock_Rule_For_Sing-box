@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -88652,6 +88653,7 @@
         "tag.woodscyclecountry.com",
         "tag2.uwv.nl",
         "tagadmin.aumago.com",
+        "tagbridge.vlp.cz",
         "tagcommander.laredoute.be",
         "tagcommander.laredoute.ch",
         "tagcommander.laredoute.de",
@@ -106281,6 +106283,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
