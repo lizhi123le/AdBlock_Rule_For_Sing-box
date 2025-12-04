@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -49512,6 +49513,7 @@
         "i.degoo.com",
         "i.do.adtrack.it",
         "i.findjoyinlife.com",
+        "i.go.sohu.com",
         "i.hypeapp.co",
         "i.imgkcdn.com",
         "i.inspiredmoney.com.au",
@@ -106289,6 +106291,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
