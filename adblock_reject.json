@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -11869,7 +11868,6 @@
         "adx-sg-req.bridgeoos.com",
         "adx-tk.rayjump.com",
         "adx.36kr.com",
-        "adx.promo",
         "adxcel-ec2.com",
         "adxcorp.kr",
         "adxfactory.com",
@@ -106300,5 +106298,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
