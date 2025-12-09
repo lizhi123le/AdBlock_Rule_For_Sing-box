@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25877,6 +25876,7 @@
         "d.neilpatel.com",
         "d.nordicbasketball.dk",
         "d.nordicbasketball.nl",
+        "d.nordprotect.com",
         "d.norsol.no",
         "d.ns.azurevision.net.daraz.com",
         "d.ns.loadbalancer-emailvision.authenticate.net.daraz.com",
@@ -105100,5 +105100,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
