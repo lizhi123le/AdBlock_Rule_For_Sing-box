@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -18960,6 +18959,7 @@
         "bot.tt.omtrdc.net",
         "botb.rtl2.de",
         "botradar.tech",
+        "boulder-collide.com",
         "bountyparents.e.aremedia.com.au",
         "bovid.neural.love",
         "bowie-cdn.fathomdns.com",
@@ -105109,5 +105109,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
