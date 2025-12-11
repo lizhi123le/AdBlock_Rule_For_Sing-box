@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -57529,6 +57530,7 @@
         "log.optimizely.com",
         "log.outbrainimg.com",
         "log.particlenews.com",
+        "log.pdfbookeditor.live",
         "log.pdfreaders.net",
         "log.pdfviewerscannerstore.live",
         "log.perfecttitspics.com",
@@ -61028,6 +61030,7 @@
         "meter.bref.sh",
         "meter.rhinobag.de",
         "metienestucontento.myavlive.com",
+        "metis.truecaller.com",
         "metis.voysaude.com.br",
         "metlifeglobal.tt.omtrdc.net",
         "metok.sys.miui.com",
@@ -105105,6 +105108,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
