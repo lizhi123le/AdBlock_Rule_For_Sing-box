@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -64808,6 +64807,7 @@
         "one2.onestep.fr",
         "onebloodinc.tt.omtrdc.net",
         "onecount.net",
+        "oneid.live",
         "onelink-translations.com",
         "onelink.appsflyer.com",
         "onelink.taptalk.io",
@@ -105110,5 +105110,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
