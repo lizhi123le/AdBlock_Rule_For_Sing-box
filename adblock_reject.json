@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -90000,6 +89999,7 @@
         "unique.ceterafinancialspecialists.com",
         "uniquecars.e.tradeuniquecars.com.au",
         "unisalute.tt.omtrdc.net",
+        "unisdk.proxima.nie.easebar.com",
         "unit4.tt.omtrdc.net",
         "united.tt.omtrdc.net",
         "unitedautocredit.actonservice.com",
@@ -99838,5 +99838,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
