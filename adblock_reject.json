@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -70066,6 +70067,7 @@
         "ruilt.corporatecasuals.com",
         "rulrdow.solawave.co",
         "rum-collector.pingdom.net",
+        "rum-ingress-coralogix.com",
         "rum-metrics.bunny.net",
         "rum.conde.io",
         "rum.condenastdigital.com",
@@ -100285,6 +100287,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
