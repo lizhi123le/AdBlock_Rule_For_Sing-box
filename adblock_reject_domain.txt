@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-23 00:58:37
+# Generated on: 2025-12-23 01:22:55
 # Generated AdBlock rules
 # Total entries: 99829
 
@@ -84990,6 +84990,7 @@
 "tnbjek.indekskitap.com",
 "tnc-boot.capcutapi.com",
 "tnc-sg.capcutapi.com",
+"tnc-v2-boot.capcutapi.com",
 "tnc16-alisg.isnssdk.com",
 "tnc16-normal-us-ttp.capcutapi.us",
 "tnc16-useast1a.isnssdk.com",
@@ -95223,7 +95224,6 @@
 "wuliupo.xhamsterlive.info",
 "wuomo8qfdcxvavu-c.akming.xyz",
 "wurflcloud.com",
-"wurl.com",
 "wurst.hausschlachtebedarf.de",
 "wurst.leffis.de",
 "wurzfs.motherhood.com",
