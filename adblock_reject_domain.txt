@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-23 21:56:54
+# Generated on: 2025-12-23 22:28:42
 # Generated AdBlock rules
-# Total entries: 99835
+# Total entries: 99840
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -11492,6 +11492,7 @@
 "adstryker.shajgharbd.com",
 "adsunflower.com",
 "adsv.cki.name",
+"adsximg.com",
 "adsxtits.com",
 "adsxtits.pro",
 "adt.stripchats.io",
@@ -24080,6 +24081,7 @@
 "condition.applause.com",
 "condor.oskarthoren.com",
 "condor.stadttunnel-feldkirch.at",
+"conduit-beacon-usw2.mtvnservices.com",
 "conduit-beacon.mtvnservices.com",
 "conf.international.baidu.com",
 "conf.net.daraz.com",
@@ -58377,6 +58379,7 @@
 "maticooads.com",
 "mato.clanto.cloud",
 "matomo-cdn-bunny.ramsalt.com",
+"matomo-prod.cgorod.pw",
 "matomo.a1.by",
 "matomo.akbal.dev",
 "matomo.aksorn.com",
@@ -80064,6 +80067,7 @@
 "static.tahoe.com",
 "static.techdoor.com",
 "static.terratraf.com",
+"static.terratraf.io",
 "static.the-saleroom.com",
 "static.theardent.group",
 "static.themathem-bid.com",
@@ -89473,6 +89477,7 @@
 "tvkfms.nta.co.jp",
 "tvnwpb.ni.dk",
 "tvnwpj.utensileriaonline.it",
+"tvp.tv",
 "tvpgs.palmgolfco.com",
 "tvpixel.com",
 "tvppa.actonservice.com",
