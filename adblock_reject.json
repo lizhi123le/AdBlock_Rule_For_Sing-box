@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -14092,6 +14091,7 @@
         "analytics.synchronyfinancial.com",
         "analytics.synchronyretail.com",
         "analytics.synchronyuniversity.com",
+        "analytics.t-mobile.com",
         "analytics.taahirajewellery.com",
         "analytics.tabichan.jp",
         "analytics.tatadigital.com",
@@ -99855,5 +99855,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
