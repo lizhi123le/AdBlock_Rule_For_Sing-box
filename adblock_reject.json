@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -66404,6 +66403,7 @@
         "pushadvert.bid",
         "pushbullet.com",
         "pushche.rabbit.click",
+        "pushd-android-logs.s3.amazonaws.com",
         "pushd.netky.tech",
         "pushdealer.com",
         "pushly.net",
@@ -99851,5 +99851,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
