@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -83873,6 +83874,7 @@
         "telemetry.proton.me",
         "telemetry.ruthschris.com",
         "telemetry.schwinnfitness.com",
+        "telemetry.sdk.inmobi.com",
         "telemetry.sentara.com",
         "telemetry.sentarahealthplans.com",
         "telemetry.services.yofi.ai",
@@ -90255,6 +90257,7 @@
         "usdbbx.mmartan.com.br",
         "usdiagnosis.icocofun.com",
         "use-cr.svr-algorix.com",
+        "use-trk.monetune.com",
         "use.fvr.to",
         "useast.datacygnal.io",
         "usebc.vertellis.nl",
@@ -99847,6 +99850,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
