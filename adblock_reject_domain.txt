@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-26 03:31:44
+# Generated on: 2025-12-26 03:47:28
 # Generated AdBlock rules
-# Total entries: 99853
+# Total entries: 99855
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -62275,6 +62275,7 @@
 "oregoncommunitycredi.tt.omtrdc.net",
 "oregonstate.actonservice.com",
 "ores-fixed.mno.link",
+"orfbijotqz.com",
 "organ-theme.xhamsterlive.info",
 "organizations.stratfor.com",
 "orgfh.getspeks.com",
@@ -67254,6 +67255,7 @@
 "recommendedcasualtymysterious.com",
 "recontent.services.tvn.pl",
 "record.t.top4smm.com",
+"recordedfuseexecuted.com",
 "recoverypoint.actonservice.com",
 "recreationalequipmen.tt.omtrdc.net",
 "recruit-info.shiftinc.jp",
