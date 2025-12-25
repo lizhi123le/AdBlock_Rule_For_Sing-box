@@ -15,7 +15,6 @@ on:
 
 jobs:
   sync_latest_from_upstream:
-    name: Sync latest commits from upstream repo
     runs-on: ubuntu-latest
     if: ${{ github.event.repository.fork }}
 
@@ -30,7 +29,7 @@ jobs:
       # Step 2: 检查是否有新提交
       - name: Check for upstream changes
         run: |
-          git remote add upstream https://github.com/REIJI007/AdBlock_Rule_For_Sing-box.git
+          git remote add upstream https://github.com/REIJI007/AdBlock_Rule_For_Sing-box.git || true
           git fetch upstream main
           if git log HEAD..upstream/main --oneline | grep .; then
             echo "New commits found, will sync."
@@ -41,7 +40,6 @@ jobs:
 
       # Step 3: 执行同步
       - name: Sync upstream changes
-        id: sync
         uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
         with:
           upstream_sync_repo: REIJI007/AdBlock_Rule_For_Sing-box
