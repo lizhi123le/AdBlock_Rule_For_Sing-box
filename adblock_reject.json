@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -90774,7 +90773,6 @@
         "utmjwd.mamasandpapas.com.kw",
         "utop.umengcloud.com",
         "utqfh.dermdude.com",
-        "uts-front.line-apps.com",
         "uts.gmarket.co.kr",
         "utsgw.auction.co.kr",
         "utspt.latchedmama.com",
@@ -99857,5 +99855,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
