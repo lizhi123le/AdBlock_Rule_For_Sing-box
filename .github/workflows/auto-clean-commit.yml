@@ -25,6 +25,7 @@ jobs:
           git config --local user.name "actions"
           git config --local user.email "action@github.com"
           git checkout --orphan clearhistory
+          git branch -D release
           git checkout --orphan main
           git add .
           git commit -m "🚀 CI Updated"
