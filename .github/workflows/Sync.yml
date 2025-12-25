@@ -25,6 +25,9 @@ jobs:
         with:
           fetch-depth: 0
           ref: main
+          
+      - name: Remove old upstream if exists
+        run: git remote remove upstream || true
 
       # Step 2: 检查是否有新提交
       - name: Check for upstream changes
