@@ -18,16 +18,16 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: main
+          ref: master
       - name: commit
         run: |
           git init
           git config --local user.name "actions"
           git config --local user.email "action@github.com"
           git checkout --orphan clearhistory
-          git branch -D release
-          git checkout --orphan main
+          git branch -D master
+          git checkout --orphan master
           git add .
           git commit -m "🚀 CI Updated"
           git remote set-url --add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          git push -f -u origin main
+          git push -f -u origin master
