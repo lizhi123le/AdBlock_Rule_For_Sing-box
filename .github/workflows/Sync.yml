@@ -34,8 +34,11 @@ jobs:
           git fetch upstream main
           if git log HEAD..upstream/main --oneline | grep .; then
             echo "has_new_commits=true" >> $GITHUB_ENV
+            echo "New commits found, will sync."
           else
             echo "has_new_commits=false" >> $GITHUB_ENV
+            echo "Already up to date, skipping sync."
+            exit 0
           fi
 
       # Step 3: 仅在有新提交时才运行同步
