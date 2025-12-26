@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-26 18:55:03
+# Generated on: 2025-12-26 19:22:32
 # Generated AdBlock rules
-# Total entries: 99855
+# Total entries: 99856
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -40449,7 +40449,6 @@
 "fukity44.fumblingvacation.pro",
 "fulfillment-ups.squareup.com",
 "fullerton-app.hotdoc.com.au",
-"fullrestore.net",
 "fun.fridayships.nl",
 "fun.relationshipone.com",
 "fundaciongruposocial.tt.omtrdc.net",
@@ -64935,6 +64934,7 @@
 "pfoha.catalystpet.com",
 "pforv.verdantlyfe.com",
 "pfqfc.skoutorganic.com",
+"pftk.temu.com",
 "pfucg.nothingnew.com",
 "pfudp.saltair.com",
 "pfuyhr.schutz.com.br",
@@ -84295,6 +84295,7 @@
 "thrive.rainforest-alliance.org",
 "thrm-scrq-0001.crypterium.com",
 "thtel.phlur.com",
+"thtk.temu.com",
 "thumbs-partner.net.daraz.com",
 "thyagu7.leftmany.pro",
 "ti3av8k3ikwm.resume.gerardbosch.xyz",
