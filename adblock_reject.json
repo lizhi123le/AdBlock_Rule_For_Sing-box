@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -59188,7 +59189,6 @@
         "metrics.steelcase.com",
         "metrics.stilvol.de",
         "metrics.strategiccoach.com",
-        "metrics.streaks.jp",
         "metrics.sun.com",
         "metrics.sungard.com",
         "metrics.sunshinehealth.com",
@@ -99862,6 +99862,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
