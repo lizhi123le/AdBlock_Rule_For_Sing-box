@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -65991,6 +65990,7 @@
         "pixel.tatpek.com",
         "pixel.thoughtmetric.io",
         "pixel.trackverify.com",
+        "pixel.visitiq.io",
         "pixel.vreview.tv",
         "pixel.wandaloo.com",
         "pixel.watch",
@@ -101026,5 +101026,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
