@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -15534,6 +15533,7 @@
         "apolloint.tt.omtrdc.net",
         "apollomunich.tt.omtrdc.net",
         "app-ads-services.com",
+        "app-analysislog.sto.cn",
         "app-analytics-ru.huami.com",
         "app-analytics-services.com",
         "app-analytics.snapchat.com",
@@ -101023,5 +101023,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
