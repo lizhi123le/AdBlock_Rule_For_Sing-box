@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -66876,6 +66877,7 @@
         "proskore.xhamsterlive.info",
         "prospex.actonservice.com",
         "protapes.actonservice.com",
+        "protected-api.branch.io",
         "protected-by.clarium.io",
         "protection.bt.com",
         "protection.ee.co.uk",
@@ -101026,6 +101028,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
