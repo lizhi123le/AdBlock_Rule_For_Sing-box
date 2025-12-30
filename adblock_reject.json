@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -39020,6 +39021,7 @@
         "event.airbridge.io",
         "event.api.drift.com",
         "event.ava.me",
+        "event.bblmw.com",
         "event.bigkeyboardeasyphone.com",
         "event.chitai-gorod.ru",
         "event.clientgear.com",
@@ -65696,6 +65698,7 @@
         "perch.luckydiff.com",
         "perdp.bitsandpieces.com",
         "perf-events.cloud.unity3d.com",
+        "perf.bblmw.com",
         "perf.hsforms.com",
         "perfectvids.com",
         "perfops.net",
@@ -101028,6 +101031,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
