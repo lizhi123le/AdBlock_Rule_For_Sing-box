@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -13629,6 +13630,7 @@
         "analytics.infosysbpm.com",
         "analytics.infosysprize.org",
         "analytics.innologica.com",
+        "analytics.inquirernetwork.net",
         "analytics.iraiser.eu",
         "analytics.ishopchangi.com",
         "analytics.islamicfinder.org",
@@ -101035,6 +101037,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
