@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -67479,7 +67480,6 @@
         "qhnan.swagbowling.com",
         "qhnhi.bulkbookstore.com",
         "qhnld.thedrillshed.com",
-        "qhres2.com",
         "qhrjsb.bodypixel.co.kr",
         "qhsuo.missjessies.com",
         "qhtqr.mindbodygreen.com",
@@ -101038,6 +101038,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
