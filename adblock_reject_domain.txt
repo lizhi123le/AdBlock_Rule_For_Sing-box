@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-02 19:27:35
+# Generated on: 2026-01-02 19:47:52
 # Generated AdBlock rules
-# Total entries: 101038
+# Total entries: 101039
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -92064,6 +92064,7 @@
 "v117.tklivechat.com",
 "v150.stripchat.webcam",
 "v16-ad.byteoversea.com",
+"v174nyvle72ozq.cfd",
 "v1twtelecom.azure.net.daraz.com",
 "v2-interaction-socialx.net.daraz.com",
 "v2-interaction.01-caauthenticate21-10-authenticate-oa-1.net.daraz.com",
