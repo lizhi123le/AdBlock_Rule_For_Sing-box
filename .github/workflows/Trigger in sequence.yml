@@ -1,172 +1,113 @@
-name: Trigger in sequence
+name: Trigger Workflows in Sequence
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/20 * * * *'  # 每20分钟触发一次
+    - cron: '*/20 * * * *'  # 每20分钟触发一次（每小时的第0、20、40分钟）
 
 jobs:
   trigger_adblock_reject_json:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Trigger and verify Run_Adblock_Reject_JSON.yml
+      - name: Trigger and wait for Run_Adblock_Reject_JSON.yml
         env:
-          TOKEN: ${{ secrets.TOKEN }}
+          GH_TOKEN: ${{ secrets.TOKEN }}  # 使用你的 PAT（secrets.TOKEN）
         run: |
-          workflow_id="Run_Adblock_Reject_JSON.yml"
-          ref="main"
-          # 触发工作流
-          response=$(curl -X POST -H "Authorization: token $TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/REIJI007/AdBlock_Rule_For_Sing-box/actions/workflows/$workflow_id/dispatches" \
-            -d "{\"ref\":\"$ref\"}")
-          echo "Triggered workflow $workflow_id: $response"
+          workflow="Run_Adblock_Reject_JSON.yml"
+          echo "Triggering $workflow..."
+          gh workflow run "$workflow" --ref main
 
-          # 验证工作流成功触发和完成
-          while : ; do
-            status=$(curl -s -H "Authorization: token $TOKEN" \
-              -H "Accept: application/vnd.github.v3+json" \
-              "https://api.github.com/repos/REIJI007/AdBlock_Rule_For_Sing-box/actions/runs?status=completed&branch=$ref" \
-              | jq -r '.workflow_runs[0].conclusion')
+          # 短暂等待 run 出现（通常几秒即可）
+          sleep 10
 
-            if [[ "$status" == "success" ]]; then
-              echo "Workflow $workflow_id completed successfully."
-              break
-            elif [[ "$status" == "failure" ]]; then
-              echo "Workflow $workflow_id failed."
-              exit 1
-            else
-              echo "Waiting for workflow $workflow_id to complete..."
-              sleep 30
-            fi
-          done
+          # 获取最新 run ID（刚触发的应该是最新的）
+          run_id=$(gh run list --workflow="$workflow" --branch=main --limit=1 --json databaseId -q '.[0].databaseId')
 
-          # 等待90秒后开始下一个工作流
-          echo "Waiting for 90 seconds before starting the next workflow..."
-          sleep 90
+          if [ -z "$run_id" ]; then
+            echo "Error: Failed to get the triggered run ID."
+            exit 1
+          fi
 
+          echo "Waiting for run $run_id to complete..."
+          gh run watch "$run_id" --exit-status  # 如果失败，自动退出非0码，导致 job 失败
 
+      - name: Wait 90 seconds before next
+        run: sleep 90
 
   trigger_adblock_reject_domain_txt:
     needs: trigger_adblock_reject_json
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Trigger and verify Run_Adblock_Reject_DOMAIN_TXT.yml
+      - name: Trigger and wait for Run_Adblock_Reject_DOMAIN_TXT.yml
         env:
-          TOKEN: ${{ secrets.TOKEN }}
+          GH_TOKEN: ${{ secrets.TOKEN }}
         run: |
-          workflow_id="Run_Adblock_Reject_DOMAIN_TXT.yml"
-          ref="main"
-          # 触发工作流
-          response=$(curl -X POST -H "Authorization: token $TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/REIJI007/AdBlock_Rule_For_Sing-box/actions/workflows/$workflow_id/dispatches" \
-            -d "{\"ref\":\"$ref\"}")
-          echo "Triggered workflow $workflow_id: $response"
+          workflow="Run_Adblock_Reject_DOMAIN_TXT.yml"
+          echo "Triggering $workflow..."
+          gh workflow run "$workflow" --ref main
 
-          # 验证工作流成功触发和完成
-          while : ; do
-            status=$(curl -s -H "Authorization: token $TOKEN" \
-              -H "Accept: application/vnd.github.v3+json" \
-              "https://api.github.com/repos/REIJI007/AdBlock_Rule_For_Sing-box/actions/runs?status=completed&branch=$ref" \
-              | jq -r '.workflow_runs[0].conclusion')
+          sleep 10
 
-            if [[ "$status" == "success" ]]; then
-              echo "Workflow $workflow_id completed successfully."
-              break
-            elif [[ "$status" == "failure" ]]; then
-              echo "Workflow $workflow_id failed."
-              exit 1
-            else
-              echo "Waiting for workflow $workflow_id to complete..."
-              sleep 30
-            fi
-          done
+          run_id=$(gh run list --workflow="$workflow" --branch=main --limit=1 --json databaseId -q '.[0].databaseId')
 
-          # 等待90秒后开始下一个工作流
-          echo "Waiting for 90 seconds before starting the next workflow..."
-          sleep 90
+          if [ -z "$run_id" ]; then
+            echo "Error: Failed to get the triggered run ID."
+            exit 1
+          fi
+
+          echo "Waiting for run $run_id to complete..."
+          gh run watch "$run_id" --exit-status
+
+      - name: Wait 90 seconds before next
+        run: sleep 90
 
   trigger_convert_ruleset_json_to_srs:
     needs: trigger_adblock_reject_domain_txt
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Trigger and verify Convert_Ruleset_JSON_to_SRS.yml
+      - name: Trigger and wait for Convert_Ruleset_JSON_to_SRS.yml
         env:
-          TOKEN: ${{ secrets.TOKEN }}
+          GH_TOKEN: ${{ secrets.TOKEN }}
         run: |
-          workflow_id="Convert_Ruleset_JSON_to_SRS.yml"
-          ref="main"
-          # 触发工作流
-          response=$(curl -X POST -H "Authorization: token $TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/REIJI007/AdBlock_Rule_For_Sing-box/actions/workflows/$workflow_id/dispatches" \
-            -d "{\"ref\":\"$ref\"}")
-          echo "Triggered workflow $workflow_id: $response"
+          workflow="Convert_Ruleset_JSON_to_SRS.yml"
+          echo "Triggering $workflow..."
+          gh workflow run "$workflow" --ref main
 
-          # 验证工作流成功触发和完成
-          while : ; do
-            status=$(curl -s -H "Authorization: token $TOKEN" \
-              -H "Accept: application/vnd.github.v3+json" \
-              "https://api.github.com/repos/REIJI007/AdBlock_Rule_For_Sing-box/actions/runs?status=completed&branch=$ref" \
-              | jq -r '.workflow_runs[0].conclusion')
+          sleep 10
 
-            if [[ "$status" == "success" ]]; then
-              echo "Workflow $workflow_id completed successfully."
-              break
-            elif [[ "$status" == "failure" ]]; then
-              echo "Workflow $workflow_id failed."
-              exit 1
-            else
-              echo "Waiting for workflow $workflow_id to complete..."
-              sleep 30
-            fi
-          done
+          run_id=$(gh run list --workflow="$workflow" --branch=main --limit=1 --json databaseId -q '.[0].databaseId')
 
-          # 等待90秒后开始下一个工作流
-          echo "Waiting for 90 seconds before starting the next workflow..."
-          sleep 90
+          if [ -z "$run_id" ]; then
+            echo "Error: Failed to get the triggered run ID."
+            exit 1
+          fi
+
+          echo "Waiting for run $run_id to complete..."
+          gh run watch "$run_id" --exit-status
+
+      - name: Wait 90 seconds before next
+        run: sleep 90
 
   trigger_release_adblock_file:
     needs: trigger_convert_ruleset_json_to_srs
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Trigger and verify Release_ADblock_File.yml
+      - name: Trigger and wait for Release_ADblock_File.yml
         env:
-          TOKEN: ${{ secrets.TOKEN }}
+          GH_TOKEN: ${{ secrets.TOKEN }}
         run: |
-          workflow_id="Release_ADblock_File.yml"
-          ref="main"
-          # 触发工作流
-          response=$(curl -X POST -H "Authorization: token $TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/REIJI007/AdBlock_Rule_For_Sing-box/actions/workflows/$workflow_id/dispatches" \
-            -d "{\"ref\":\"$ref\"}")
-          echo "Triggered workflow $workflow_id: $response"
+          workflow="Release_ADblock_File.yml"
+          echo "Triggering $workflow..."
+          gh workflow run "$workflow" --ref main
 
-          # 验证工作流成功触发和完成
-          while : ; do
-            status=$(curl -s -H "Authorization: token $TOKEN" \
-              -H "Accept: application/vnd.github.v3+json" \
-              "https://api.github.com/repos/REIJI007/AdBlock_Rule_For_Sing-box/actions/runs?status=completed&branch=$ref" \
-              | jq -r '.workflow_runs[0].conclusion')
+          sleep 10
 
-            if [[ "$status" == "success" ]]; then
-              echo "Workflow $workflow_id completed successfully."
-              break
-            elif [[ "$status" == "failure" ]]; then
-              echo "Workflow $workflow_id failed."
-              exit 1
-            else
-              echo "Waiting for workflow $workflow_id to complete..."
-              sleep 30
-            fi
-          done
+          run_id=$(gh run list --workflow="$workflow" --branch=main --limit=1 --json databaseId -q '.[0].databaseId')
+
+          if [ -z "$run_id" ]; then
+            echo "Error: Failed to get the triggered run ID."
+            exit 1
+          fi
+
+          echo "Waiting for run $run_id to complete..."
+          gh run watch "$run_id" --exit-status
