@@ -26,7 +26,7 @@ jobs:
           fetch-depth: 1
           ref: main
           
-      # Step 3: 仅在有新提交时才运行同步
+      # Step 2: 仅在有新提交时才运行同步
       - name: Sync upstream changes
         if: env.has_new_commits == 'true'
         uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
@@ -43,7 +43,7 @@ jobs:
           host_domain: github.com
           shallow_since: null
           
-      # Step 4: 如果失败，提示手动同步
+      # Step 3: 如果失败，提示手动同步
       - name: Sync check
         if: failure()
         run: |
