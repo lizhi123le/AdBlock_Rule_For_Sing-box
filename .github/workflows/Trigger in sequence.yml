@@ -11,25 +11,25 @@ jobs:
     steps:
       - name: Trigger and wait for Run_Adblock_Reject_JSON.yml
         env:
-          GH_TOKEN: ${{ secrets.TOKEN }}  # 使用你的 PAT（secrets.TOKEN）
+          GH_TOKEN: ${{ secrets.TOKEN }}
         run: |
+          repo="${{ github.repository }}"
           workflow="Run_Adblock_Reject_JSON.yml"
-          echo "Triggering $workflow..."
-          gh workflow run "$workflow" --ref main
-
-          # 短暂等待 run 出现（通常几秒即可）
-          sleep 10
-
-          # 获取最新 run ID（刚触发的应该是最新的）
-          run_id=$(gh run list --workflow="$workflow" --branch=main --limit=1 --json databaseId -q '.[0].databaseId')
-
+          
+          echo "Triggering $workflow on $repo..."
+          gh workflow run "$workflow" --ref main --repo "$repo"
+          
+          sleep 15  # 稍延长等待时间，确保 run 出现
+          
+          run_id=$(gh run list --repo "$repo" --workflow="$workflow" --branch main --limit 1 --json databaseId -q '.[0].databaseId')
+          
           if [ -z "$run_id" ]; then
-            echo "Error: Failed to get the triggered run ID."
+            echo "Error: Failed to retrieve the triggered run ID."
             exit 1
           fi
-
+          
           echo "Waiting for run $run_id to complete..."
-          gh run watch "$run_id" --exit-status  # 如果失败，自动退出非0码，导致 job 失败
+          gh run watch "$run_id" --repo "$repo" --exit-status
 
       - name: Wait 90 seconds before next
         run: sleep 90
@@ -42,21 +42,23 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.TOKEN }}
         run: |
+          repo="${{ github.repository }}"
           workflow="Run_Adblock_Reject_DOMAIN_TXT.yml"
-          echo "Triggering $workflow..."
-          gh workflow run "$workflow" --ref main
-
-          sleep 10
-
-          run_id=$(gh run list --workflow="$workflow" --branch=main --limit=1 --json databaseId -q '.[0].databaseId')
-
+          
+          echo "Triggering $workflow on $repo..."
+          gh workflow run "$workflow" --ref main --repo "$repo"
+          
+          sleep 15
+          
+          run_id=$(gh run list --repo "$repo" --workflow="$workflow" --branch main --limit 1 --json databaseId -q '.[0].databaseId')
+          
           if [ -z "$run_id" ]; then
-            echo "Error: Failed to get the triggered run ID."
+            echo "Error: Failed to retrieve the triggered run ID."
             exit 1
           fi
-
+          
           echo "Waiting for run $run_id to complete..."
-          gh run watch "$run_id" --exit-status
+          gh run watch "$run_id" --repo "$repo" --exit-status
 
       - name: Wait 90 seconds before next
         run: sleep 90
@@ -69,21 +71,23 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.TOKEN }}
         run: |
+          repo="${{ github.repository }}"
           workflow="Convert_Ruleset_JSON_to_SRS.yml"
-          echo "Triggering $workflow..."
-          gh workflow run "$workflow" --ref main
-
-          sleep 10
-
-          run_id=$(gh run list --workflow="$workflow" --branch=main --limit=1 --json databaseId -q '.[0].databaseId')
-
+          
+          echo "Triggering $workflow on $repo..."
+          gh workflow run "$workflow" --ref main --repo "$repo"
+          
+          sleep 15
+          
+          run_id=$(gh run list --repo "$repo" --workflow="$workflow" --branch main --limit 1 --json databaseId -q '.[0].databaseId')
+          
           if [ -z "$run_id" ]; then
-            echo "Error: Failed to get the triggered run ID."
+            echo "Error: Failed to retrieve the triggered run ID."
             exit 1
           fi
-
+          
           echo "Waiting for run $run_id to complete..."
-          gh run watch "$run_id" --exit-status
+          gh run watch "$run_id" --repo "$repo" --exit-status
 
       - name: Wait 90 seconds before next
         run: sleep 90
@@ -96,18 +100,20 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.TOKEN }}
         run: |
+          repo="${{ github.repository }}"
           workflow="Release_ADblock_File.yml"
-          echo "Triggering $workflow..."
-          gh workflow run "$workflow" --ref main
-
-          sleep 10
-
-          run_id=$(gh run list --workflow="$workflow" --branch=main --limit=1 --json databaseId -q '.[0].databaseId')
-
+          
+          echo "Triggering $workflow on $repo..."
+          gh workflow run "$workflow" --ref main --repo "$repo"
+          
+          sleep 15
+          
+          run_id=$(gh run list --repo "$repo" --workflow="$workflow" --branch main --limit 1 --json databaseId -q '.[0].databaseId')
+          
           if [ -z "$run_id" ]; then
-            echo "Error: Failed to get the triggered run ID."
+            echo "Error: Failed to retrieve the triggered run ID."
             exit 1
           fi
-
+          
           echo "Waiting for run $run_id to complete..."
-          gh run watch "$run_id" --exit-status
+          gh run watch "$run_id" --repo "$repo" --exit-status
