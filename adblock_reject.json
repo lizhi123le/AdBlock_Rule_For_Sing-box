@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -71943,7 +71942,6 @@
         "sedalia.townsquaremedia.info",
         "seddy5.fumblingvacation.pro",
         "sedge.aarp.org",
-        "sedge.nfl.com",
         "sedgwickpooling.sedgwick.com",
         "sedireoui.foolhardywear.pro",
         "see.wasteorshare.com",
@@ -101046,5 +101044,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
