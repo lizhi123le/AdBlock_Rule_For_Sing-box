@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-02 16:41:23
+# Generated on: 2026-01-02 16:57:47
 # Generated AdBlock rules
-# Total entries: 101033
+# Total entries: 101035
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -28128,6 +28128,7 @@
 "data.decathlon.fr",
 "data.decathlon.it",
 "data.decathlon.pl",
+"data.deep-content.io",
 "data.delivers.buick.com",
 "data.delivers.cadillac.com",
 "data.delivers.chevrolet.com",
@@ -29201,6 +29202,7 @@
 "digital.qmctelecom.com",
 "digital.trustmark.com",
 "digitalacademy-00-bootstrap.net.daraz.com",
+"digitalcaramel.com",
 "digitalcurrent.actonservice.com",
 "digitalid-qa.santanderbank.com",
 "digitalid.santanderbank.com",
