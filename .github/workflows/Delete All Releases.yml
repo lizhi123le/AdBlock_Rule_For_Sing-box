@@ -16,21 +16,21 @@ jobs:
 
       - name: Delete draft releases (stable with external jq)
         run: |
-          # 获取所有 draft release 名称，使用外部 jq 过滤
-          drafts=$(gh release list --limit 100 --json name,isDraft | jq -r '.[] | select(.isDraft==true) | .name')
+          # 获取所有 draft release 的 tag 名称，使用外部 jq 过滤
+          drafts=$(gh release list --limit 100 --json tagName,isDraft | jq -r '.[] | select(.isDraft==true) | .tagName')
 
           if [ -z "$drafts" ]; then
             echo "No draft releases found, skipping."
           else
             count=0
-            while IFS= read -r d; do
-              echo "Attempting to delete draft release: $d"
-              if gh release view "$d" >/dev/null 2>&1; then
-                gh release delete "$d" -y
-                echo "Deleted draft release: $d"
+            while IFS= read -r tag; do
+              echo "Attempting to delete draft release with tag: $tag"
+              if gh release view "$tag" >/dev/null 2>&1; then
+                gh release delete "$tag" -y
+                echo "Deleted draft release with tag: $tag"
                 count=$((count+1))
               else
-                echo "Skip: $d not found"
+                echo "Skip: $tag not found"
               fi
             done <<< "$drafts"
             echo "Total draft releases deleted: $count"
