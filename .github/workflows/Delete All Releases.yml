@@ -14,38 +14,26 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Delete draft releases (robust with gh version detection)
+      - name: Delete draft releases (stable with external jq)
         run: |
-          # 检查 gh 版本号
-          GH_VERSION=$(gh --version | grep -oE '[0-9]+\.[0-9]+' | head -n1)
-          echo "Detected gh version: $GH_VERSION"
-
-          version_ge() {
-            [ "$(printf '%s\n' "$2" "$1" | sort -V | head -n1)" = "$2" ]
-          }
-
-          # 根据版本选择方法
-          if version_ge "$GH_VERSION" "2.0"; then
-            echo "gh version >= 2.0, using --jq directly"
-            drafts=$(gh release list --limit 100 --json name,isDraft \
-              --jq -r '.[] | select(.isDraft==true) | .name')
-          else
-            echo "gh version < 2.0, fallback to external jq"
-            drafts=$(gh release list --limit 100 --json name,isDraft | jq -r '.[] | select(.isDraft==true) | .name')
-          fi
+          # 获取所有 draft release 名称，使用外部 jq 过滤
+          drafts=$(gh release list --limit 100 --json name,isDraft | jq -r '.[] | select(.isDraft==true) | .name')
 
           if [ -z "$drafts" ]; then
             echo "No draft releases found, skipping."
           else
+            count=0
             while IFS= read -r d; do
               echo "Attempting to delete draft release: $d"
               if gh release view "$d" >/dev/null 2>&1; then
                 gh release delete "$d" -y
                 echo "Deleted draft release: $d"
+                count=$((count+1))
               else
                 echo "Skip: $d not found"
               fi
             done <<< "$drafts"
+            echo "Total draft releases deleted: $count"
           fi
         env:
           GITHUB_TOKEN: ${{ github.token }}
