@@ -3,7 +3,7 @@ name: Delete Old Releases (Keep Latest 3)
 on:
   workflow_dispatch:  # 手动触发
   schedule:
-    - cron: '0 */3 * * *'  # 每天午夜执行一次
+    - cron: '0 */3 * * *'  # 每3小时执行一次
 
 jobs:
   cleanup-releases:
