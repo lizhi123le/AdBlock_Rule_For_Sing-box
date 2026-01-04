@@ -14,14 +14,26 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Delete draft releases
+      - name: Delete draft releases (robust)
         run: |
+          # 获取所有 draft release 名称
           drafts=$(gh release list --limit 100 --json name,isDraft \
             --jq '.[] | select(.isDraft==true) | .name')
-          for d in $drafts; do
-            echo "Deleting draft release: $d"
-            gh release delete "$d" -y
-          done
+
+          if [ -z "$drafts" ]; then
+            echo "No draft releases found, skipping."
+          else
+            for d in $drafts; do
+              echo "Attempting to delete draft release: $d"
+              # 检查 release 是否存在
+              if gh release view "$d" >/dev/null 2>&1; then
+                gh release delete "$d" -y
+                echo "Deleted draft release: $d"
+              else
+                echo "Skip: $d not found"
+              fi
+            done
+          fi
         env:
           GITHUB_TOKEN: ${{ github.token }}
 
