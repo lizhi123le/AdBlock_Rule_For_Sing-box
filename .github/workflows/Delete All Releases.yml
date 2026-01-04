@@ -6,7 +6,7 @@ on:
     - cron: '0 */3 * * *'  # 每3小时执行一次
 
 jobs:
-  delete-old-releases:
+  cleanup-releases:
     runs-on: ubuntu-latest
     permissions:
       contents: write  # 删除 releases 需要 write 权限
@@ -25,7 +25,6 @@ jobs:
           else
             for d in $drafts; do
               echo "Attempting to delete draft release: $d"
-              # 检查 release 是否存在
               if gh release view "$d" >/dev/null 2>&1; then
                 gh release delete "$d" -y
                 echo "Deleted draft release: $d"
