@@ -3,19 +3,32 @@ name: Delete Old Releases (Keep Latest 3)
 on:
   workflow_dispatch:  # 手动触发
   schedule:
-    - cron: '0 */2 * * *'  # 每6小时执行一次
+    - cron: '0 0 * * *'  # 每天午夜执行一次
 
 jobs:
   delete-old-releases:
     runs-on: ubuntu-latest
     permissions:
       contents: write  # 删除 releases 需要 write 权限
-
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Delete draft releases
+        run: |
+          drafts=$(gh release list --limit 100 --json name,isDraft \
+            --jq '.[] | select(.isDraft==true) | .name')
+          for d in $drafts; do
+            echo "Deleting draft release: $d"
+            gh release delete "$d" -y
+          done
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
       - name: Delete older releases (keep latest 3)
         uses: dev-drprasad/delete-older-releases@v0.3.4
         with:
           keep_latest: 3  # 保留最新的 3 个 releases
-          delete_tags: false  # 是否同时删除关联的 tag（默认 false，如果你需要删除 tag 改为 true）
+          delete_tags: false  # 是否同时删除关联的 tag
         env:
-          GITHUB_TOKEN: ${{ github.token }}  # 使用内置 token 即可
+          GITHUB_TOKEN: ${{ github.token }}
