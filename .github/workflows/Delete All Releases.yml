@@ -3,7 +3,7 @@ name: Delete Old Releases (Keep Latest 3)
 on:
   workflow_dispatch:  # 手动触发
   schedule:
-    - cron: '0 */3 * * *'  # 每3小时执行一次
+    - cron: '0 */3 * * *'  # 每天午夜执行一次
 
 jobs:
   cleanup-releases:
@@ -16,14 +16,14 @@ jobs:
 
       - name: Delete draft releases (robust)
         run: |
-          # 获取所有 draft release 名称
+          # 获取所有 draft release 名称，逐行读取，避免空格拆分
           drafts=$(gh release list --limit 100 --json name,isDraft \
-            --jq '.[] | select(.isDraft==true) | .name')
+            --jq -r '.[] | select(.isDraft==true) | .name')
 
           if [ -z "$drafts" ]; then
             echo "No draft releases found, skipping."
           else
-            for d in $drafts; do
+            while IFS= read -r d; do
               echo "Attempting to delete draft release: $d"
               if gh release view "$d" >/dev/null 2>&1; then
                 gh release delete "$d" -y
@@ -31,7 +31,7 @@ jobs:
               else
                 echo "Skip: $d not found"
               fi
-            done
+            done <<< "$drafts"
           fi
         env:
           GITHUB_TOKEN: ${{ github.token }}
