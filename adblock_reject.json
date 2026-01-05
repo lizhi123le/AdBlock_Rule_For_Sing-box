@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -29563,6 +29562,7 @@
         "dnqaa.flexyminds.com",
         "dnrrc.nixxit.com",
         "dns-clientinfo.cbsivideo.com",
+        "dns-clientinfo.vtg.paramount.tech",
         "dns1.apps.net.daraz.com",
         "dns1lication-spring.net.daraz.com",
         "dnsbl.test.adobe.tt.omtrdc.net",
@@ -101046,5 +101046,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
