@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -13023,10 +13024,12 @@
         "amplifongroup.tt.omtrdc.net",
         "amplify.madison365.com",
         "amplifypixel.outbrain.com",
+        "amplilab.thepure.app",
         "amplitude-experiment.bandlab.com",
         "amplitude.bandlab.com",
         "amplitude.chess.com",
         "amplitude.life360.com",
+        "amplitude.thepure.app",
         "ampltd.top.gg",
         "ampltd2.medal.tv",
         "amptrack-dailymail-co-uk.cdn.ampproject.org",
@@ -60798,6 +60801,7 @@
         "mob2.healthtrackergroup.com",
         "mob2.musicgostudio.com",
         "mob2.mymusic2025.com",
+        "mob2.welltastic-app.com",
         "moba8.net",
         "mobads.baidu.com",
         "mobclix.com",
@@ -88357,6 +88361,7 @@
         "tracfonewireless.tt.omtrdc.net",
         "tracing-collector.strava.com",
         "tracing.roblox.com",
+        "tracing.yelp.com",
         "track-acton.healthengine.com.au",
         "track-aws.notsy.io",
         "track-e.infineon.com",
@@ -101554,6 +101559,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
