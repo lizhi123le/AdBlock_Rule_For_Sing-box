@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -46910,6 +46909,7 @@
         "higbju.lovelingjewelry.co.kr",
         "highbeautygirl.stripchat.org",
         "higherone.tt.omtrdc.net",
+        "hightouch-events.com",
         "highway.18manwa.com",
         "highway.cablecar.sph.com.sg",
         "hijab.decentattire.com",
@@ -100564,6 +100564,7 @@
         "yawsyi.freedomliftsystems.com",
         "yaxlek.dandy-house.co.jp",
         "yayoicoltd.tt.omtrdc.net",
+        "yazio-analytics.com",
         "yazzuf.joyn.de",
         "yb.trck.richmarketwaves.com",
         "ybczal.bitterliebe.com",
@@ -101564,5 +101565,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
