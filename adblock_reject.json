@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -39904,6 +39905,7 @@
         "felidae.top10partnersuche.ch",
         "felissimocorporation.tt.omtrdc.net",
         "felix.data.tm-awx.com",
+        "fem.gprod.postmedia.digital",
         "femetrics.grammarly.io",
         "femfighting.fumblingvacation.pro",
         "feministryangosling.superchat.live",
@@ -101572,6 +101574,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
