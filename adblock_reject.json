@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -24935,6 +24936,7 @@
         "cprgh.nuudcare.fr",
         "cpsekmar.cuvee-privee.ma",
         "cpsmbor.ensorings.com",
+        "cpu-api.infor.pl",
         "cpu.baidu.com",
         "cpu32-u68p7.ads.tremorhub.com",
         "cpu32-vvlc7.ads.tremorhub.com",
@@ -101588,6 +101590,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
