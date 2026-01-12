@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-12 19:54:06
+# Generated on: 2026-01-12 20:20:21
 # Generated AdBlock rules
-# Total entries: 101586
+# Total entries: 101589
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -39651,6 +39651,7 @@
 "fastlane.rubiconproject.com",
 "fastly-analytics.com",
 "fathomdns.com",
+"favismanomie.com",
 "favor1.fractal.jp",
 "faxsmarter.instantinfo.com",
 "fayebusiness.actonservice.com",
@@ -51493,6 +51494,7 @@
 "kzsicw.tvspielfilm.de",
 "kzsisc.3.dk",
 "kzsvo.sportrx.com",
+"kzt2afc1rp52.com",
 "kzvdi.livom.it",
 "kzvfc.mylilteddy.com",
 "kzycrait7pueroe-c.adktrack82.xyz",
@@ -51960,6 +51962,7 @@
 "latdr.mycarpe.com",
 "latest.android-central.news",
 "latestmoviesgallery.boyfriend.show",
+"latherprofanecognizance.com",
 "latifyahia2006.foolhardywear.pro",
 "latimes.activate.ensighten.com",
 "laudle.sonatural.co.kr",
