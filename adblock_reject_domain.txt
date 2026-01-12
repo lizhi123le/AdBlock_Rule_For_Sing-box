@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-12 21:53:36
+# Generated on: 2026-01-12 22:15:13
 # Generated AdBlock rules
 # Total entries: 101590
 
@@ -46720,6 +46720,7 @@
 "hazicu.hothomefuck.com",
 "hb-af-us-central1.outfit7.com",
 "hb-failover-stpceyl2ua-uw.a.run.app",
+"hb-mob2.optiword.com",
 "hb.headbidder.net",
 "hb.rayjump.com",
 "hb.tt.omtrdc.net",
@@ -56850,7 +56851,6 @@
 "lp.services.tuftsmedicine.org",
 "lp.smartbusiness.samsung.com",
 "lp.solutions.cegos.it",
-"lp.spac.me",
 "lp.strayer.edu",
 "lp.switchworks.co.jp",
 "lp.symenergy.net",
