@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -40411,6 +40410,7 @@
         "fine.thedeepview.com",
         "fine.trynivelle.store",
         "fine.usecadence.com",
+        "fingerhi.net",
         "fingerprint.fool.com",
         "fingerprint.incodesmile.com",
         "finley.fecinc.com",
@@ -101607,5 +101607,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
