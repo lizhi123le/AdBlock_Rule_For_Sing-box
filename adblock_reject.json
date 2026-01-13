@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -67942,6 +67943,7 @@
         "r-qa.urbansitter.net",
         "r.aachener-zeitung.de",
         "r.akipam.com",
+        "r.anime-go.cc",
         "r.apkpure.net",
         "r.archertube.com",
         "r.atlasearth.com",
@@ -101605,6 +101607,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
