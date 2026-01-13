@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-13 14:16:41
+# Generated on: 2026-01-13 14:45:28
 # Generated AdBlock rules
-# Total entries: 101591
+# Total entries: 101592
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -29719,6 +29719,7 @@
 "doporucim.zjistitcenu.cz",
 "doppler-beacon.cbsivideo.com",
 "doppler-beacons.cbsivideo.com",
+"doppler.hulu.com",
 "doppler.streetinteractive.com",
 "doqcj.miraclegro.com",
 "doqgzc.smartphoto.fi",
