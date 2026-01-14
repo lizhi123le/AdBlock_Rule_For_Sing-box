@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-15 01:18:31
+# Generated on: 2026-01-15 01:45:34
 # Generated AdBlock rules
-# Total entries: 101609
+# Total entries: 101614
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -18551,6 +18551,7 @@
 "bid.mbidtg.com",
 "bid.onclcktg.com",
 "bidbpo.dr-10.com",
+"bidder.doceree.com",
 "bidder.dsp.outfit7.com",
 "bidder.mdspinc.com",
 "bidforclicks.com",
@@ -25110,6 +25111,7 @@
 "cs.hot.net.il",
 "cs.hotzcam.com",
 "cs.liveandsexy.cam",
+"cs.media.net",
 "cs.myavlive.com",
 "cs.nexttv.co.il",
 "cs.nsfwlivechat.com",
@@ -39217,6 +39219,7 @@
 "events-jp.splash-screen.net",
 "events-meta-events.outsideonline.com",
 "events-stream-svc.cordial.com",
+"events-stream-svc.cordial.io",
 "events-stream-svc.usw2.cordial.com",
 "events-tracker.deliveroo.net",
 "events.absolutaimobiliaria.com.br",
@@ -40748,6 +40751,7 @@
 "fpc.gartner.com",
 "fpc.sage.com",
 "fpc.utexas.edu",
+"fpcdn.io",
 "fpcn.bpsgameserver.com",
 "fpcs.wellshaved.gr",
 "fpdtag.tealiumdemo.com",
@@ -40760,6 +40764,7 @@
 "fpida.une-nana-cool.com",
 "fpida.wacoalholdings.jp",
 "fpida.yue-japan.com",
+"fpjs.io",
 "fpmobile.uplift-platform.com",
 "fpoyvjgdm.com",
 "fps.lascana.nl",
