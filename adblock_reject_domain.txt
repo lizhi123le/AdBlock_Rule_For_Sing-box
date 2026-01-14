@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-14 22:45:07
+# Generated on: 2026-01-14 23:01:15
 # Generated AdBlock rules
-# Total entries: 101606
+# Total entries: 101607
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -96690,6 +96690,7 @@
 "winnersmindset.org",
 "wins.myavlive.com",
 "winston.strp.chat",
+"winsurbox.com",
 "winter05032026.shop",
 "wintrustfinancialcor.tt.omtrdc.net",
 "winwithastor.loanzify.app",
