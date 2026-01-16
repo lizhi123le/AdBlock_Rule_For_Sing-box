@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-16 11:57:24
+# Generated on: 2026-01-16 12:33:39
 # Generated AdBlock rules
-# Total entries: 101621
+# Total entries: 101624
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -38654,6 +38654,7 @@
 "engage2.accfb.org",
 "engage2demand.cisco.com",
 "engagefront.theweathernetwork.com",
+"engagelab.cc",
 "engagement.education.minecraft.net",
 "engagement.globalsign.com",
 "engagement.moodmedia.com",
@@ -41600,6 +41601,7 @@
 "glkge.ekster.com",
 "glob13lid3.click.s11.sfmc-osl.com",
 "global-go.experian.com",
+"global-sis.engagelab.com",
 "global.appnext.com",
 "global.cognizant.com",
 "global.notifysrv.com",
@@ -60602,6 +60604,7 @@
 "mix.iaraudio.com",
 "mixadvert.com",
 "mixpanel-proxy.ted.com",
+"mixpanel.tigocloud.net",
 "mj23.eulerian.com",
 "mjafvw.jungborn.de",
 "mjbizcon.montel.com",
