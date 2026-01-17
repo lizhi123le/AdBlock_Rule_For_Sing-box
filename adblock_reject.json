@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -59549,6 +59548,7 @@
         "mediasolutions.netinsight.net",
         "mediasource.actonservice.com",
         "mediation-tracking.prd.mz.internal.unity3d.com",
+        "mediation.goog",
         "mediation.mwmadnetworks.com",
         "mediation.unity3d.com",
         "mediator.imgsmail.ru",
@@ -101640,5 +101640,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
