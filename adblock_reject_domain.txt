@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-06 12:40:47
+# Generated on: 2026-07-06 16:46:09
 # Generated AdBlock rules
-# Total entries: 248771
+# Total entries: 248774
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -18533,6 +18533,7 @@
 "ad.rejichoice.jp",
 "ad.santa.lv",
 "ad.serv1for.pro",
+"ad.sexplex.com",
 "ad.shinjuku-mens-chuoh.com",
 "ad.simpledesign.ltd",
 "ad.slimspots.com",
@@ -160778,6 +160779,7 @@
 "jipfq.etrendygo.com",
 "jira-123pago-svc.docs.net.daraz.com",
 "jitsu.ixbt.com",
+"jitsu.ixbt.games",
 "jitsu.ixbt.site",
 "jiujpc.asgoodasnew.fr",
 "jiv0v40rb8pghlml.net.daraz.com",
@@ -235558,6 +235560,7 @@
 "unsubscribe.marketing.giftcards.com",
 "unsubscribe.notification.giftcards.com",
 "unsubscribe.promo.timhortons.ca",
+"untimely-proof.pro",
 "untmm.virtuepb.com",
 "untrhhc.veneera.co.uk",
 "unudk.protecttheplant.com",
