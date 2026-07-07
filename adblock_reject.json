@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -177936,6 +177937,7 @@
         "manitari.openapp.link",
         "maniteka.com",
         "mannhummel.tt.omtrdc.net",
+        "mantis-awx.com",
         "mantis.alt-ann.share.ntv.io",
         "mantis01-lib-oa-1-cf23region.net.daraz.com",
         "manufacturing.autodeskcommunications.com",
@@ -207158,6 +207160,7 @@
         "sketerterus.com",
         "skf.actonservice.com",
         "skfgxk.decorativeceilingtiles.net",
+        "ski.leftnewsex.com",
         "ski1.skiset.com",
         "ski2-2.emailvision.net.daraz.com",
         "skiaccounts-accounts.emailvision.net.daraz.com",
@@ -235479,6 +235482,7 @@
         "unalaskamiaskitewormproof.monster",
         "unamktg.uponor.com",
         "unbewn.byravn.dk",
+        "unblockia.com",
         "unbouncepages.com",
         "uncanny.marvel.com",
         "uncchl.mylene.eu",
@@ -248782,6 +248786,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
