@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -187932,6 +187931,7 @@
         "omni.westernasset.com",
         "omni.yellowpages.com",
         "omnifpcs.devry.edu",
+        "omnimove.tourradar.com",
         "omniomar.com",
         "omniqa.ru",
         "omnis.basspro.com",
@@ -248782,5 +248782,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
