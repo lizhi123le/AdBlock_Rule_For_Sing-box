@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -28236,6 +28235,7 @@
         "axisre.axiscapital.com",
         "axjfkc.kobayashi.co.jp",
         "axkcmb.mosigra.ru",
+        "axmaxhsa.com",
         "axnskz.power-stones.jp",
         "axon.ai",
         "axonstechnology.actonservice.com",
@@ -135139,6 +135139,7 @@
         "enews.mortonarb.org",
         "enews.nrm.org",
         "enews.walmart.com",
+        "enfacesplaineddeglory.qpon",
         "eng.ca.bebelelo.com",
         "eng.info.mouser.com",
         "eng.net.daraz.com",
@@ -248787,5 +248788,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
