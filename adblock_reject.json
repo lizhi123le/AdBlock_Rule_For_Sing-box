@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -199408,6 +199407,7 @@
         "saimon.nordesignsolution.com",
         "sainsburys.tt.omtrdc.net",
         "saintgobainbuildingd.tt.omtrdc.net",
+        "sainwertapr.com",
         "sajari.com",
         "sajeb.ownabode.com",
         "sajjad0.xhamsterlive.info",
@@ -248800,5 +248800,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
