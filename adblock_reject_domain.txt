@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-08 22:30:30
+# Generated on: 2026-07-08 23:34:32
 # Generated AdBlock rules
-# Total entries: 248792
+# Total entries: 248795
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -138321,6 +138321,7 @@
 "flurryad.com",
 "flux-globalid3.click.s11.sfmc-osl.com",
 "flux.gameboost.com",
+"fluxivetsknummus.cyou",
 "fluxo.drluizsegundo.com",
 "flvpzm.pexo.cz",
 "flw.camcaps.ac",
@@ -195065,6 +195066,7 @@
 "qxerzu.dona-d.com",
 "qxgfdq.maiutazas.hu",
 "qxibrn.enviedefraise.fr",
+"qxif497o6q61e2nep.cyou",
 "qxkous.sweet-mommy.com",
 "qxlshnvo.7oh.com",
 "qxlshnvo.try7hydro.com",
@@ -237150,6 +237152,7 @@
 "viero.smtp.vierovantagens.com.br",
 "viesti.sales.sfs.fi",
 "viesti.sfs.fi",
+"vietadx.net",
 "vietnam.promo.skf.com",
 "vietnamairlines.tt.omtrdc.net",
 "view-old.email.realcommercial.com.au",
