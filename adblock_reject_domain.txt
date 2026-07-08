@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-08 12:39:37
+# Generated on: 2026-07-08 15:17:17
 # Generated AdBlock rules
-# Total entries: 248785
+# Total entries: 248788
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -12739,6 +12739,7 @@
 "a.inlar.xyz",
 "a.inpit.xyz",
 "a.intensse.ro",
+"a.ipinfo.io",
 "a.ipoque.com",
 "a.iramb.site",
 "a.irenk.xyz",
@@ -49277,6 +49278,7 @@
 "drheragheranddropobjects.net.daraz.com",
 "drhsder4m.marinapinhasdermatologia.com.br",
 "drift.com",
+"driftsbabbleswandery.cfd",
 "drip.mtaupdate.com",
 "drive-agent.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediaessprofiles.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediaessprofiles.datadoghq.comproduction.agent.ap1.datadoghq.com",
 "drive.carpoollogistics.com",
@@ -236567,6 +236569,7 @@
 "v.goldman.com",
 "v.gs.com",
 "v.gsselect.com",
+"v.ipinfo.io",
 "v.kidoz.net",
 "v.marcus.co.uk",
 "v.marcus.com",
