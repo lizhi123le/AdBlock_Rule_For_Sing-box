@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22948,6 +22947,7 @@
         "analytics.perfumestime.sa",
         "analytics.pesktop.com",
         "analytics.petracarestore.com",
+        "analytics.pextra.cloud",
         "analytics.pgncs.notion.so",
         "analytics.phonezonestore.com",
         "analytics.picknrg.com",
@@ -248808,5 +248808,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
