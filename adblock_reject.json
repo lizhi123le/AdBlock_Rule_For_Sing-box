@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -198132,6 +198131,7 @@
         "rum-ingress-coralogix.com",
         "rum-metrics.bunny.net",
         "rum.api.intuit.com",
+        "rum.catchmetrics.io",
         "rum.conde.io",
         "rum.condenastdigital.com",
         "rum.corewebvitals.io",
@@ -248801,5 +248801,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
