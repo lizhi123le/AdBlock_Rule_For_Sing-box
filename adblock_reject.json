@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -239466,6 +239465,7 @@
         "vividcortex.actonservice.com",
         "viviotech.management-application-spring.net.daraz.com",
         "viviotech.net.daraz.com",
+        "vivotzrigtry.com",
         "viz.altair.com",
         "vizio.tt.omtrdc.net",
         "vizquest.actonservice.com",
@@ -248811,5 +248811,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
