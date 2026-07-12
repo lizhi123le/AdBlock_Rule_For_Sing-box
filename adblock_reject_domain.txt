@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-12 20:45:19
+# Generated on: 2026-07-12 22:02:19
 # Generated AdBlock rules
-# Total entries: 248807
+# Total entries: 248810
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -139151,6 +139151,7 @@
 "funil.webjasper.com.br",
 "funnel.saunaplace.com",
 "funnelbox.actonservice.com",
+"funny-tooth.com",
 "funny.shopvalley.fr",
 "funnyimagesclip.foolhardywear.pro",
 "funsdata.com",
@@ -162534,6 +162535,7 @@
 "kyc.altosandes.com.pe",
 "kyc.usend.com",
 "kydcwp.landwirt.com",
+"kyemnphpymnyv.website",
 "kyinub.palmbeachjewelry.com",
 "kyl4mteza7rl2ox-p.recettedubonheur.fr",
 "kyloepartners.actonservice.com",
@@ -193510,6 +193512,7 @@
 "private.roche.com",
 "privateclient.hubinternational.com",
 "privatestats.whatsapp.net",
+"prizefamily.com",
 "prkvlr.camper.com",
 "prl.adasgsts.cc",
 "prl.adasgxsp.cc",
