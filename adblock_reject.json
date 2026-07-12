@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -139147,6 +139146,7 @@
         "funil.webjasper.com.br",
         "funnel.saunaplace.com",
         "funnelbox.actonservice.com",
+        "funny-tooth.com",
         "funny.shopvalley.fr",
         "funnyimagesclip.foolhardywear.pro",
         "funsdata.com",
@@ -162530,6 +162530,7 @@
         "kyc.altosandes.com.pe",
         "kyc.usend.com",
         "kydcwp.landwirt.com",
+        "kyemnphpymnyv.website",
         "kyinub.palmbeachjewelry.com",
         "kyl4mteza7rl2ox-p.recettedubonheur.fr",
         "kyloepartners.actonservice.com",
@@ -193506,6 +193507,7 @@
         "private.roche.com",
         "privateclient.hubinternational.com",
         "privatestats.whatsapp.net",
+        "prizefamily.com",
         "prkvlr.camper.com",
         "prl.adasgsts.cc",
         "prl.adasgxsp.cc",
@@ -248812,5 +248814,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
