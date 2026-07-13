@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -33015,6 +33016,7 @@
         "c.bigmir.net",
         "c.bloblohub.com",
         "c.bouncepingpong.com",
+        "c.bubutv.top",
         "c.civo.com",
         "c.cstation.kodansha.co.jp",
         "c.dmetric-partner.net.daraz.com",
@@ -248815,6 +248817,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
