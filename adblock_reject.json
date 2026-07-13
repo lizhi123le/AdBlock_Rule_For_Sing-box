@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -21485,6 +21486,7 @@
         "aktrack.pubmatic.com",
         "aku-tak-peduli.myavlive.com",
         "akudanchenta.xhamsterlive.info",
+        "akutagawa.consumer.gopuff.com",
         "akv2-br-cdn.kwai.net.iberostar.com",
         "akviv.snagtights.eu",
         "akwiqx.jdsports.be",
@@ -248819,6 +248821,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
