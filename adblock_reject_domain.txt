@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-13 15:59:40
+# Generated on: 2026-07-13 18:57:08
 # Generated AdBlock rules
-# Total entries: 248812
+# Total entries: 248816
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -7871,6 +7871,7 @@
 "14093.sfap-qa1.marketingcloudqaops.com",
 "1411.sfap-qa1.marketingcloudqaops.com",
 "1412.connector-qa1.marketingcloudqaapis.com",
+"1414.hexa.su",
 "1417214353.net.daraz.com",
 "1422.sfap-qa1.marketingcloudqaops.com",
 "14231.ftp-qa1.marketingcloudqaops.com",
@@ -34843,6 +34844,7 @@
 "cdn.tahwox.com",
 "cdn.tazlo.cloud",
 "cdn.tcwrf.com",
+"cdn.testdomain12345xyz.com",
 "cdn.thk4.com",
 "cdn.throatbulge.com",
 "cdn.tia-tanaka.blog",
@@ -140248,6 +140250,7 @@
 "gli9.inseec-bs.com",
 "glicqalid3.click.s11.sfmc-osl.com",
 "glidalid3.click.s11.sfmc-osl.com",
+"glidersreplume.qpon",
 "glimmerleblonde.foolhardywear.pro",
 "glinteralid3.click.s11.sfmc-osl.com",
 "glivalid3.click.s11.sfmc-osl.com",
@@ -153957,6 +153960,7 @@
 "hesconet.actonservice.com",
 "hesprh.sony.jp",
 "hesta.tt.omtrdc.net",
+"hestherchiffer.com",
 "hetcash.com",
 "heuida.shopafrm.com",
 "hevir.ryanandrose.co",
