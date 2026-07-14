@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -195189,6 +195188,7 @@
         "r.tracklume1.space",
         "r.tropictube.com",
         "r.tt.omtrdc.net",
+        "r.vares.top",
         "r.veltrix1.space",
         "r.wholehall.com",
         "r0.mail.ru",
@@ -248821,5 +248821,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
