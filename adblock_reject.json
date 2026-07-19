@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -234478,6 +234477,7 @@
         "trusted-collector-bk.tmocce.com",
         "trustedseniorspecialists.actonservice.com",
         "trustid.actonservice.com",
+        "trustkiwi.com",
         "trustmarknational.tt.omtrdc.net",
         "trvju.servicedogs.com",
         "trvonu.k-manga.jp",
@@ -248837,5 +248837,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
