@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-20 12:13:51
+# Generated on: 2026-07-20 15:38:39
 # Generated AdBlock rules
-# Total entries: 248833
+# Total entries: 248834
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -18960,6 +18960,7 @@
 "adhfpsu.liti.com.br",
 "adhitzads.com",
 "adhnu.wanderbeauty.com",
+"adhub.porcino-kinoko.workers.dev",
 "adhudg.nec-lavie.jp",
 "adhunter.media",
 "adiariadi5-srv.net.daraz.com",
@@ -47513,7 +47514,6 @@
 "dd.daffodilday.org.nz",
 "dd.g2.com",
 "dd.leboncoin.fr",
-"dd.qwant.com",
 "dd.reuters.com",
 "dd47055762.df6733029c.com",
 "dd80d3eba7.22b8bd2b91.com",
@@ -211458,6 +211458,7 @@
 "sniga.segomotools.com",
 "snipe.mfaber.at",
 "snipe.mizzuu.co",
+"snippet.affilimate.io",
 "snjvh.calecimprofessional.com",
 "snjwvk7tmzoywv2-c.ktrack.xyz",
 "snl.staging.libertatea.ro",
