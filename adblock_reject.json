@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -154791,6 +154790,7 @@
         "humanainc.tt.omtrdc.net",
         "humanarc.actonservice.com",
         "humayun.meowmesh.com",
+        "humiliatedaboveboardwho.com",
         "hummingbird.mavencoalition.io",
         "hundp.essential-watches.com",
         "hungary.inklabs.hu",
@@ -248845,5 +248845,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
