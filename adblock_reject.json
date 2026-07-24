@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -138791,6 +138792,7 @@
         "fqpzf.thefloristsupplyshop.com",
         "fqqok.zipstring.com",
         "fqrghb.hotcircle.net",
+        "fqrukpjaahukp.com",
         "fqvvn.getlemonhead.com",
         "fqwgcx.catawiki.fr",
         "fqxnlh.kgcshop.co.kr",
@@ -186086,6 +186088,7 @@
         "nhecom.ninahome.com.br",
         "nhercules.emailviherculesion.uhercules.net.daraz.com",
         "nhglm.everydayyoga.com",
+        "nhgmymxth.com",
         "nhids.farmacybeauty.com",
         "nhkonline.tt.omtrdc.net",
         "nhkoze.saneibd.com",
@@ -248849,6 +248852,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
