@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -21626,6 +21627,7 @@
         "al3jbbnxpt8m4tl-c.adkclicker.fr",
         "alaburger.openapp.link",
         "aladdinupdate.blackrock.com",
+        "aladinia.app",
         "alamin.annawabi.com",
         "alamocapital.actonservice.com",
         "alapita.openapp.link",
@@ -248861,6 +248863,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
