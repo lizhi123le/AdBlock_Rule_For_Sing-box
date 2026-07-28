@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-28 16:46:41
+# Generated on: 2026-07-28 17:58:01
 # Generated AdBlock rules
-# Total entries: 248854
+# Total entries: 248857
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -35044,6 +35044,7 @@
 "cdp.americanexpress.ch",
 "cdp.cashback-cards.ch",
 "cdp.cloud.unity.cn",
+"cdp.customer.io",
 "cdp.getswisscard.ch",
 "cdp.miles-and-more-cards.ch",
 "cdp.swisscard.ch",
@@ -50008,6 +50009,7 @@
 "e1fc0ab4de.0014b04291.com",
 "e1ff2dcbaf.80a16e63df.com",
 "e2.hazeldenbettyford.org",
+"e2.sy-d.io",
 "e2.thedailybeast.com",
 "e2.wlessin.com",
 "e20d8e38992b.o3n.io",
@@ -138319,6 +138321,7 @@
 "floridapowerandlight.tt.omtrdc.net",
 "floripa.cursodetti.com.br",
 "flotech.actonservice.com",
+"flow-control.profitroom.net",
 "flow-prod.h24.news",
 "flow.aft.com",
 "flow.curendo.de",
