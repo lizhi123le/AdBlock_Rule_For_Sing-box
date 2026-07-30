@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -233542,6 +233541,7 @@
         "traffichunt.com",
         "trafficmanager.net",
         "trafficsyncpro.com",
+        "traffinity.pro",
         "trafico.prensaiberica.es",
         "trafmag.com",
         "trail-001.schleich-s.com",
@@ -248865,5 +248865,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
