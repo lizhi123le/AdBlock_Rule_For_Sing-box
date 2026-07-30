@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-30 16:50:00
+# Generated on: 2026-07-30 18:53:09
 # Generated AdBlock rules
 # Total entries: 248861
 
@@ -21631,7 +21631,6 @@
 "al3jbbnxpt8m4tl-c.adkclicker.fr",
 "alaburger.openapp.link",
 "aladdinupdate.blackrock.com",
-"aladinia.app",
 "alamin.annawabi.com",
 "alamocapital.actonservice.com",
 "alapita.openapp.link",
@@ -234783,6 +234782,7 @@
 "tuagol.gartenmoebel.de",
 "tuba.strp.chat",
 "tubemogul.com",
+"tubexazimebeze.com",
 "tucdj.trollcoclothing.ca",
 "tuesdaysale.bid",
 "tufcum.margaretha.se",
