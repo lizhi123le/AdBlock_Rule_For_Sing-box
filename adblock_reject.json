@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -222900,6 +222899,7 @@
         "stats-a.maxthon.com",
         "stats-api.skylum.com",
         "stats-blog.lewsion.com",
+        "stats-cdn.polyspeak.ai",
         "stats-connect.comet.it",
         "stats-dev.brid.tv",
         "stats-iobit-com.us-east-1.elasticbeanstalk.com",
@@ -248868,5 +248868,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
