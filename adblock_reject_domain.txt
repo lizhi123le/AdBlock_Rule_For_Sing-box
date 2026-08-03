@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-03 16:36:51
+# Generated on: 2026-08-03 19:45:00
 # Generated AdBlock rules
-# Total entries: 248871
+# Total entries: 248865
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -201203,6 +201203,7 @@
 "serv.venicci.co.uk",
 "serv.zarbeebd.com",
 "servcont.usetrico.com.br",
+"serve.affiliate.heurekashopping.sk",
 "serve.amitymart.store",
 "serve.bdsmstreak.com",
 "serve.bergbier.de",
@@ -235520,13 +235521,6 @@
 "ulyqnknbb9vthro-p.adktrack30.xyz",
 "um-public-panel-prod.s3.amazonaws.com",
 "um.merinfo.se",
-"umami.aigenerations.net",
-"umami.spencerdevs.xyz",
-"umami.subdavis.com",
-"umami.syg.ma",
-"umami.vidcore.net",
-"umami.vidfast.pro",
-"umami.vidup.to",
 "umamix.fadunews.in",
 "umassmemorial.hrm.healthgrades.com",
 "umazvs.raybiotech.com",
