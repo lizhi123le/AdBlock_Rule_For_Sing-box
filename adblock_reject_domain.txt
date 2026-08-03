@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-03 12:55:20
+# Generated on: 2026-08-03 16:17:14
 # Generated AdBlock rules
-# Total entries: 248866
+# Total entries: 248871
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -49315,6 +49315,7 @@
 "driverportal-na-2-links.evconnect.com",
 "drjzh.loveinfaith.life",
 "drkaq.nlbeauty.bg",
+"drlagqnl.com",
 "drm.actonservice.com",
 "drmlobalid3.click.s11.sfmc-osl.com",
 "drngoc.abphotos.link",
@@ -137180,6 +137181,7 @@
 "fdkbu.thespeakerlab.com",
 "fdkeip.azafashions.com",
 "fdldg.trtltravel.com",
+"fdluoxnn.com",
 "fdmsu.greenpan.us",
 "fdnyk.suzannesomers.com",
 "fdp.arenacanada.ca",
@@ -160818,6 +160820,7 @@
 "jimbm.charlestyrwhitt.com",
 "jinair.nsc.jinair.com",
 "jinair.sc.jinair.com",
+"jinanrqz.com",
 "jineu.goddessall.com",
 "jinx-avalt.share.ntv.io",
 "jinx-sjc12-dr01.net.daraz.com",
@@ -180944,6 +180947,7 @@
 "mehqj.spartan.com",
 "meid.xham.live",
 "meijer.tt.omtrdc.net",
+"meijxqop.com",
 "mein.nebenan.de",
 "meinauto.hdd-dienste.de",
 "meiodepagamento.campanhaporto.com.br",
@@ -240331,6 +240335,7 @@
 "wdukge.midwayusa.com",
 "wdw.disneyrewards.com",
 "wdyfx.ltliang.com",
+"wdziitkl.com",
 "we-love-privacy.humane.club",
 "we.care.oswegohealth.org",
 "we.kurly.com",
