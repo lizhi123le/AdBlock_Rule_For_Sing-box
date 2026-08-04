@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -290877,6 +290876,7 @@
         "rdfine.camelbrown.com",
         "rdfnq.etrgovinica.si",
         "rdhag.sansmatin.co.uk",
+        "rdipmrbwgvk.com",
         "rdkct.kickgame.co.uk",
         "rdkro.beistravel.com",
         "rdllwd.gasjeans.com",
@@ -382406,5 +382406,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
