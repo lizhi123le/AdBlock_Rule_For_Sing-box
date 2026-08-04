@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -275617,6 +275618,7 @@
         "mn-tz.com",
         "mn.answersnotexcuses.com",
         "mn.attidaepilosis.shop",
+        "mn.browpotware.com",
         "mn.doorsfixedfast.com",
         "mn.homecoming.be",
         "mn.mankaakura.com",
@@ -382406,6 +382408,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
