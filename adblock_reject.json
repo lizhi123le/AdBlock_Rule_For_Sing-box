@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -330416,7 +330415,6 @@
         "tag.overhemden.com",
         "tag.panorama.ai",
         "tag.pasteleropro.com",
-        "tag.perx.ru",
         "tag.phantomscreens.com.au",
         "tag.pluripharma.com.br",
         "tag.poomang.com",
@@ -382410,5 +382408,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
