@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -288078,6 +288079,7 @@
         "preferencestoolauth.share.ntv.io",
         "prefs.comms.carwow.co.uk",
         "prefs.enablehr.com.au",
+        "prehurl.com",
         "prejav.assets.net.daraz.com",
         "premera.tt.omtrdc.net",
         "premierbuyer.edm.globalsources.com",
@@ -289630,6 +289632,7 @@
         "pushpop.nativeads.com",
         "pushspring.actonservice.com",
         "pushwelcome.com",
+        "pusqfnqjeekvd.website",
         "puteshestvui.xham.live",
         "puuush.me",
         "puzzle.spiriteq.com",
@@ -382408,6 +382411,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
