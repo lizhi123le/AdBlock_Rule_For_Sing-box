@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-06 12:36:04
+# Generated on: 2026-08-06 14:20:50
 # Generated AdBlock rules
-# Total entries: 382406
+# Total entries: 382409
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -26952,6 +26952,7 @@
 "api.anacorso.com.br",
 "api.anactr.com.br",
 "api.analebear.com",
+"api.analytics.dobrosvyaz.com",
 "api.analytics.omgpop.com",
 "api.anandainsights.com.br",
 "api.anapaulacarvalho.com",
@@ -36559,6 +36560,7 @@
 "blackwoods.tt.omtrdc.net",
 "blade.tt.omtrdc.net",
 "bladv.actonservice.com",
+"blakeunwanted.com",
 "blakwc.sabon.fr",
 "blaltn.physicianschoice.com",
 "blanc24stage-mhb-dhcp.net.daraz.com",
@@ -361215,6 +361217,7 @@
 "welltonstagingstaging.javhihi.net.daraz.com",
 "wellui00.tt.tt.omtrdc.net",
 "wellvantage.tt.omtrdc.net",
+"wellworn-lead.com",
 "wellyh-staging-mr.net.daraz.com",
 "wellyh.stageallbesta.net.daraz.com",
 "wellyh.stagingabgsex.net.daraz.com",
