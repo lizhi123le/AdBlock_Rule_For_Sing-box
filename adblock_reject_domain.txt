@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-06 17:10:53
+# Generated on: 2026-08-06 18:20:09
 # Generated AdBlock rules
-# Total entries: 382410
+# Total entries: 382413
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -287651,6 +287651,7 @@
 "postgraduate2.smu.edu.sg",
 "posthog.football24.ua",
 "posthog.lingvanex.com",
+"posthog.russpass.ru",
 "posthog.tarnkappe.info",
 "postman.postman.legacyfa-asia.com",
 "postmaster.asteriabd.com",
@@ -295803,6 +295804,7 @@
 "sabbir.tessill.com",
 "saber.srvcs.tumblr.com",
 "sabic.actonservice.com",
+"sableviolet.com",
 "sabnyheyiv62mkl-c.adkoffre.fr",
 "sabxt.teeoff.com",
 "sac.dermatitecontrolada.com.br",
@@ -325852,6 +325854,7 @@
 "static.152media.cloud",
 "static.9versemedia.com",
 "static.a1.0network.com",
+"static.accesstrade.vn",
 "static.acertb.com",
 "static.ad-maven.com",
 "static.ad.logic-prod.viasat.io",
