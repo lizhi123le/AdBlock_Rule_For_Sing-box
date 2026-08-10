@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -24675,6 +24674,7 @@
         "analytics.atlassian.com",
         "analytics.auditto.com.br",
         "analytics.authoritymedia.com",
+        "analytics.autoodb.com",
         "analytics.autozone.com",
         "analytics.avcdn.net",
         "analytics.avis.de",
@@ -382418,5 +382418,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
