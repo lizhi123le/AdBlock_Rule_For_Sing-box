@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -47734,6 +47733,7 @@
         "com.api-static-stage.net.daraz.com",
         "com.gardio.se",
         "comagic.ru",
+        "comanicilikeiste.com",
         "comatmoviehd.net.daraz.com",
         "comatsu.myavlive.com",
         "combimatrix.actonservice.com",
@@ -286326,6 +286326,7 @@
         "pebble.nextra-strategy.de",
         "pebed.dm-event.net",
         "pec8invbfzzrucp-p.unenoteunjour.fr",
+        "pecannerous.com",
         "peepcloud.joinpeep.io",
         "pefvp.theubeauty.co.uk",
         "pega.com",
@@ -382419,5 +382420,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
