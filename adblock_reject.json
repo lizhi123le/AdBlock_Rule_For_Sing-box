@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -30995,6 +30994,7 @@
         "assets.mystica.no",
         "assets.net.daraz.com",
         "assets.ogrzewanie-pex.pl",
+        "assets.onedollarstats.com",
         "assets.oupe.es",
         "assets.piercingkungen.se",
         "assets.prydligt.com",
@@ -345246,6 +345246,7 @@
         "u.jp.omg.adult",
         "u.knuffelwuff.at",
         "u.knuffelwuff.dk",
+        "u.lessbutbetter.studio",
         "u.makro.es",
         "u.makro.pl",
         "u.makro.pt",
@@ -382425,5 +382426,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
