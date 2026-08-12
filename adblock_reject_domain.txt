@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-12 13:21:15
+# Generated on: 2026-08-12 14:46:30
 # Generated AdBlock rules
-# Total entries: 382424
+# Total entries: 382427
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -40177,6 +40177,7 @@
 "ccllt.fromrebel.ca",
 "ccloudfrontcar31nnectedtwteleccloudfrontcar31m.azure.net.daraz.com",
 "ccnku.meibi.mx",
+"ccnsad.com",
 "ccpd.jet2.com",
 "ccpd.jet2holidays.com",
 "ccqhzj.kilamobler.se",
@@ -51839,6 +51840,7 @@
 "czech.getinklabs.com",
 "czhbq.polyandbark.com",
 "czhjf.baublestockings.com",
+"czilladx.com",
 "czirtyk.sugarmesmooth.com",
 "czmbp.evenflo.com",
 "cznap.unclearnies.com",
@@ -287690,6 +287692,7 @@
 "poutine-pp-bbanywhere.links.rosieapp.com",
 "pov.spectrum.net",
 "povtbi.automovilesalhambra.es",
+"powderencouraged.com",
 "power.dj.studio",
 "power.eyecare.nl",
 "power.gosunpro.com",
