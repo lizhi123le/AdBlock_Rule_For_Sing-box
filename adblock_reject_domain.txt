@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-13 23:05:39
+# Generated on: 2026-08-14 00:09:32
 # Generated AdBlock rules
-# Total entries: 382431
+# Total entries: 382433
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -20111,6 +20111,7 @@
 "adashx-spring.net.daraz.com",
 "adashx-www.partner.net.daraz.com",
 "adashx.kubemarketing.net.daraz.com",
+"adashx.m.taobao.com",
 "adashx.ut.alibaba.com",
 "adashx.v2-interaction.net.daraz.com",
 "adashx.viviotech.net.daraz.com",
@@ -290543,6 +290544,7 @@
 "qzpki.vacationangel.com",
 "qzppzo.debbiemeyer.co.kr",
 "qzreoh.squatwolf.com",
+"qzs.gdtimg.com",
 "qzsnbe.lampara.es",
 "qzthc.vayasleep.com",
 "qzu5.carrefour-banque.fr",
