@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22808,6 +22807,7 @@
         "affiliate.ucetni-portal.cz",
         "affiliate.uncaria.cz",
         "affiliate.unicare.sk",
+        "affiliate.unisender.com",
         "affiliate.vasecocky.cz",
         "affiliate.vasesosovky.sk",
         "affiliate.velebny.cz",
@@ -382443,5 +382443,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
