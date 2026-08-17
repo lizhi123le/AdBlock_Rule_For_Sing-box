@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -39986,6 +39985,7 @@
         "cat.hilde-phil.com",
         "cat.laravel-news.com",
         "cat.mattr.global",
+        "cat.pexels.com",
         "cat.sprucely.net",
         "catalog-apiproxy.links.rosieapp.com",
         "catalog-capwap-dataler.net.daraz.com",
@@ -382444,5 +382444,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
