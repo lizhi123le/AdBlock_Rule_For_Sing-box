@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-18 08:26:27
+# Generated on: 2026-08-18 10:03:08
 # Generated AdBlock rules
-# Total entries: 503899
+# Total entries: 503902
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -406652,6 +406652,7 @@
 "phyins.actonservice.com",
 "phyon.communipay.net",
 "phyon.visit-x.net",
+"physicaldad.com",
 "physocean-legacy.net.daraz.com",
 "physocean-satta.net.daraz.com",
 "physoceangenerator.net.daraz.com",
@@ -425232,6 +425233,7 @@
 "shaikat.nolokjewelry.com",
 "shaker.toz24.com",
 "shakil.per-la.com",
+"shameful-farm.com",
 "shamim.thetechrock.com",
 "shamrockfsw-bbanywhere.links.rosieapp.com",
 "shanto.discountloverbd.com",
@@ -426826,6 +426828,7 @@
 "smade.quellilainitaly.com",
 "smail.keeprecipes.com",
 "smail.solartaxpros.com",
+"smallanywhere.com",
 "smallbusiness.adpinfo.com",
 "smart-placements-sdk.ex.co",
 "smart.cameramatics.com",
