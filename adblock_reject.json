@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -77846,7 +77847,6 @@
         "dextersolutions.actonservice.com",
         "df.fragrancex.com",
         "df.greenmangaming.com",
-        "df.tanx.com",
         "df.thumbtack.com",
         "df035428b5.d8ff1e73bd.com",
         "df0pmigc8xs70.cloudfront.net",
@@ -401105,7 +401105,6 @@
         "p.square1art.com",
         "p.statp.com",
         "p.storeconnect.com",
-        "p.tanx.com",
         "p.taskray.com",
         "p.tizonaa.com",
         "p.versacommerce.de",
@@ -503912,6 +503911,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
