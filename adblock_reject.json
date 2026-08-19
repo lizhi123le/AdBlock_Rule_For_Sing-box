@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -47577,6 +47578,7 @@
         "cdn.meno-me.com",
         "cdn.mequoda.com",
         "cdn.metodolumens.com.br",
+        "cdn.mgln.ai",
         "cdn.miluwo.com",
         "cdn.mircheigeshoa.com",
         "cdn.mnhjk.com",
@@ -63939,6 +63941,7 @@
         "cookies.siemens-advanta.com",
         "cookies.siemens-healthineers.com",
         "cookies.siemens.com",
+        "cookies.truecaller.com",
         "cookies.us.jll.com",
         "cookies.wpcarey.com",
         "cooking-craze-prod.tt-qe5.omtrdc.net",
@@ -503910,6 +503913,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
