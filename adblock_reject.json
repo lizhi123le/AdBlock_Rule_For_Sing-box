@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -34862,6 +34863,7 @@
         "beacon.ehow.com",
         "beacon.elairaspirit.com",
         "beacon.eleos.co.uk",
+        "beacon.errorception.com",
         "beacon.examiner.com",
         "beacon.geniee.jp",
         "beacon.gtv-pub.com",
@@ -452824,6 +452826,7 @@
         "team.bayntree.com",
         "team.bodyartisan.online",
         "team.elq.coles.com.au",
+        "team.epccm19.com",
         "team.morai.ai",
         "team.moxtra.com",
         "team.pieces.app",
@@ -503914,6 +503917,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
