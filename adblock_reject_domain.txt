@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-19 12:07:18
+# Generated on: 2026-08-19 13:00:29
 # Generated AdBlock rules
-# Total entries: 503908
+# Total entries: 503912
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -25376,6 +25376,7 @@
 "analytic20.detik.com",
 "analytics-altdeveloper.share.ntv.io",
 "analytics-api.a-f.io",
+"analytics-api.byub.org",
 "analytics-api.gemcommerce.com",
 "analytics-api.invideo.io",
 "analytics-api.liveapp.com",
@@ -25657,6 +25658,7 @@
 "analytics.butenas.de",
 "analytics.byeternify.com",
 "analytics.byondesign.com",
+"analytics.byub.org",
 "analytics.calculavalorvivienda.es",
 "analytics.calibrecleaning.com.au",
 "analytics.callbell.eu",
@@ -34865,6 +34867,7 @@
 "beacon.ehow.com",
 "beacon.elairaspirit.com",
 "beacon.eleos.co.uk",
+"beacon.errorception.com",
 "beacon.examiner.com",
 "beacon.geniee.jp",
 "beacon.gtv-pub.com",
@@ -452827,6 +452830,7 @@
 "team.bayntree.com",
 "team.bodyartisan.online",
 "team.elq.coles.com.au",
+"team.epccm19.com",
 "team.morai.ai",
 "team.moxtra.com",
 "team.pieces.app",
