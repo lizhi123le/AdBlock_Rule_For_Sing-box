@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -26439,6 +26440,7 @@
         "analytics.securebanklogin.com",
         "analytics.sedrajewellery.com",
         "analytics.seekxr.com",
+        "analytics.sen.go.kr",
         "analytics.send.cm",
         "analytics.sensorpartners.com",
         "analytics.servettefc.ch",
@@ -449301,6 +449303,7 @@
         "sumai2.tatemono.com",
         "sumaiya.sumaiyahairtonic.com",
         "sumatoad.com",
+        "sumetrika.com",
         "sumitomomitsuicard.tt.omtrdc.net",
         "sumitomomitsuitrustc.tt.omtrdc.net",
         "summary.bookoff.co.jp",
@@ -503921,6 +503924,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
