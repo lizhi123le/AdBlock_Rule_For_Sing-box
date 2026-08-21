@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -26505,6 +26504,7 @@
         "analytics.spankbang.com",
         "analytics.spark.co.nz",
         "analytics.spearly.com",
+        "analytics.sportera.fans",
         "analytics.sports.ru",
         "analytics.sposadeste.com",
         "analytics.ssmas.com",
@@ -503926,5 +503926,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
