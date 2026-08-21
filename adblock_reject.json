@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -356109,6 +356110,7 @@
         "ksjjog.xspo.de",
         "kskai.visionveda.in",
         "kskml.mkmachining.com",
+        "ksks2.sportsonline.top",
         "kslht.hatchcollection.com",
         "kslii.skylar.com",
         "ksmzps.itsskin.com",
@@ -503923,6 +503925,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
