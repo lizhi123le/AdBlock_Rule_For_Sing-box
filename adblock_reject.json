@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -377327,6 +377328,7 @@
         "lw-c-log.lastwarapp.com",
         "lw.b.inhaabit.com",
         "lw.wechtsbatonne.cyou",
+        "lwadm.com",
         "lwashh.hessischer-jobanzeiger.de",
         "lwbridgestone.tt.omtrdc.net",
         "lwdpz7cez1yr10or.net.daraz.com",
@@ -503926,6 +503928,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
