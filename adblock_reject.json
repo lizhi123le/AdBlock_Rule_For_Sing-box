@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -418475,6 +418474,7 @@
         "sematext.com",
         "semcusto.solucaogratuita.site",
         "semi.us.horiba.com",
+        "seminarycentral.org",
         "semlimites.a2baceleradora.com",
         "semog.gruvi.link",
         "send.globalance.com",
@@ -503934,5 +503934,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
