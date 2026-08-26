@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22194,6 +22193,7 @@
         "ads.dovelewis.org",
         "ads.dreamjobcompany.com",
         "ads.drviniciusandrade.com.br",
+        "ads.dzeko11.st",
         "ads.edadeal.ru",
         "ads.emaswincapi.com",
         "ads.environmentalleader.com",
@@ -68018,6 +68018,7 @@
         "d2oh4tlt9mrke9.cloudfront.net",
         "d2osk0po1oybwz.cloudfront.net",
         "d2ovgc4ipdt6us.cloudfront.net",
+        "d2pf0ys5xus6n.cloudfront.net",
         "d2pppxxtaciku9.cloudfront.net",
         "d2psma0az3acui.cloudfront.net",
         "d2qmp7jjpd79k7.cloudfront.net",
@@ -503946,5 +503947,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
