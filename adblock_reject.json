@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -483338,6 +483339,7 @@
         "wns11.tt.omtrdc.net",
         "wnster.origns.net.daraz.com",
         "wnvieu.enpal.de",
+        "wnwtfmpsmslwi.site",
         "wnyywf.frankonia.de",
         "wnzckstaging-staging-moviesmobile.net.daraz.com",
         "wo-msb-cluster.accountariemonn.tt-qe-ci1.omtrdc.net",
@@ -503947,6 +503949,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
