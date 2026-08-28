@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-28 13:25:17
+# Generated on: 2026-08-28 19:37:27
 # Generated AdBlock rules
-# Total entries: 503947
+# Total entries: 503950
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -24269,6 +24269,7 @@
 "ak8s-prdhenticate.net.daraz.com",
 "aka-patner.net.daraz.com",
 "aka.ae29-sjc12-dr01.net.daraz.com",
+"aka.asiae.co.kr",
 "aka.n-switch.net.daraz.com",
 "aka.net.daraz.com",
 "aka01-car21-web-wwww0node.net.daraz.com",
@@ -25432,6 +25433,7 @@
 "analytics-ingestion.production-public.tubi.io",
 "analytics-ingress-global.bitmovin.com",
 "analytics-ingress.bitmovin.com",
+"analytics-ios-tcp.rayjump.com",
 "analytics-k8s-prd.n-switch.net.daraz.com",
 "analytics-la-nwsl.yinzcam.com",
 "analytics-lac-nba.yinzcam.com",
@@ -408108,6 +408110,7 @@
 "posthog.lingvanex.com",
 "posthog.russpass.ru",
 "posthog.tarnkappe.info",
+"posthog.worldshopping.global",
 "postman.postman.legacyfa-asia.com",
 "postmaster.asteriabd.com",
 "postmaster.avadacom.com",
