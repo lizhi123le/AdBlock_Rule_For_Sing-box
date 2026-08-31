@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -20775,7 +20776,6 @@
         "ad-kraft.aloe-tallow.com",
         "ad-log-upload-os.hoyoverse.com",
         "ad-log.dable.io",
-        "ad-log.wemakeprice.com",
         "ad-server.linkvertise.com",
         "ad-serving.iocreate.cloud",
         "ad-shield.cc",
@@ -25444,7 +25444,6 @@
         "analytics-mia-nfl.yinzcam.com",
         "analytics-min-mls.yinzcam.com",
         "analytics-min-nba.yinzcam.com",
-        "analytics-mkt.wemakeprice.com",
         "analytics-msg-venues.yinzcam.com",
         "analytics-nfl-5.yinzcam.com",
         "analytics-njd-nhl.yinzcam.com",
@@ -405587,6 +405586,7 @@
         "paul-mellon-uk.tt.omtrdc.net",
         "paulosabbanelliapi.expressacustica.com.br",
         "paupud.meillandrichardier.com",
+        "pausible.flaq.ai",
         "pavlosmelas.xhamsterlive.info",
         "pavoboxapp.com",
         "pawadominicana.tt.omtrdc.net",
@@ -447510,6 +447510,7 @@
         "stats.fishersci.it",
         "stats.flightformation.com",
         "stats.flightsphere.com",
+        "stats.flixcloud.cc",
         "stats.fluorescent.co",
         "stats.folienmarkt.de",
         "stats.footwork.co",
@@ -447963,6 +447964,7 @@
         "stats.realestate.cv.ua",
         "stats.realestate.kyiv.ua",
         "stats.realestate.uz.ua",
+        "stats.reanime.to",
         "stats.redditmedia.com",
         "stats.referralhero.com",
         "stats.refurbished-handys.de",
@@ -483263,7 +483265,6 @@
         "wlmwkz.adrop.sk",
         "wlog.ifdo.co.kr",
         "wlog.ksapisrv.com",
-        "wlog.tmon.co.kr",
         "wlp3.aegon.es",
         "wlpdfo.choicefurnituresuperstore.co.uk",
         "wlptux.habitaclia.com",
@@ -503962,6 +503963,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
