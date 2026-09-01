@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-01 05:02:37
+# Generated on: 2026-09-01 08:33:10
 # Generated AdBlock rules
 # Total entries: 503961
 
@@ -73930,7 +73930,6 @@
 "dc608237a3.d97e3715f9.com",
 "dc7fe69926.99f7022009.com",
 "dc8d554c41.99ddb6ad48.com",
-"dc8xl0ndzn2cb.cloudfront.net",
 "dca-ems.hubhubhub.name",
 "dcb.dannyclosetboutique.com.br",
 "dcb33ef688.6e7e9acff5.com",
@@ -467402,6 +467401,7 @@
 "udzsgk.myclassico.com",
 "udzucw.haggar.com",
 "ue-adm6.matt.tt.omtrdc.net",
+"ue.a-bly.com",
 "ue.kicker.de",
 "ue.sc.tt.omtrdc.net",
 "ue1.accountdatastatusorigin.tt.omtrdc.net",
