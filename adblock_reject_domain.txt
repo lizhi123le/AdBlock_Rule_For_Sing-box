@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-01 13:43:35
+# Generated on: 2026-09-01 18:23:45
 # Generated AdBlock rules
-# Total entries: 503958
+# Total entries: 503962
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -332194,6 +332194,7 @@
 "handelsblatt.met.vgwort.de",
 "handler.rgstats.com",
 "handmade.prettyserendipity.co.uk",
+"handskeeping.com",
 "handy.starmobile.de",
 "hanif.nasibasilk.com",
 "hannah.teamspotlite.com",
@@ -409615,6 +409616,7 @@
 "ptarmigan.q-free.com",
 "ptata.34heritage.com",
 "ptb.patarellobeach.com.br",
+"pteknvcm.com",
 "ptelj.loveshackfancy.com",
 "ptgxwo.toolstoday.com",
 "ptkjr.simplynootropics.com",
@@ -413573,6 +413575,7 @@
 "role-info.socialx.net.daraz.com",
 "roll.comdecor.eu",
 "rollbar.actonservice.com",
+"rollgosize.com",
 "rollout1.click.s11.sfmc-osl.com",
 "rolpenszimocca.com",
 "rolt7it2lhml5rxa.edge41.testandtarget.omniture.com",
@@ -425763,6 +425766,7 @@
 "sharepoint8s-prd.n-switch.net.daraz.com",
 "sharing.kptncook.com",
 "shark.rockyourlife.de",
+"sharkvidskr.com",
 "sharp.actonservice.com",
 "sharpmarketing.eu",
 "shazzat.prinush.com",
