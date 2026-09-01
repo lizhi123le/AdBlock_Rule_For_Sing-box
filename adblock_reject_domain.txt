@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-01 08:33:10
+# Generated on: 2026-09-01 08:37:58
 # Generated AdBlock rules
-# Total entries: 503961
+# Total entries: 503960
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -348622,7 +348622,6 @@
 "iwnnpubgvimzwyr-c.adkclicker.fr",
 "iwpkhm.re-store.ru",
 "iwpneu.eneba.com",
-"iws2.io.naver.com",
 "iwtawq.priscaj.com",
 "iwwqqy.motorsweden.se",
 "ix.41v9m8nu42hm9l.cfd",
