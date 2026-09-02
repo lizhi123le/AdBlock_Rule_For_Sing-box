@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-02 19:46:31
+# Generated on: 2026-09-02 22:07:42
 # Generated AdBlock rules
-# Total entries: 503966
+# Total entries: 503965
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -347511,7 +347511,6 @@
 "ipcert-lib-oa-1.net.daraz.com",
 "ipcfgw.pieces.com",
 "ipchangelinknodeaction.tt.omtrdc.net",
-"ipcheck.blogsys.jp",
 "ipcheck.nautilus.tt.omtrdc.net",
 "ipcheck.tmgrup.com.tr",
 "ipcloud.tt-qe2.omtrdc.net",
