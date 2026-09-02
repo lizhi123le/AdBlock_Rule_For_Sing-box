@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -34627,6 +34626,7 @@
         "bbrandckend-r-ht-1.net.daraz.com",
         "bbreset.r-ht-1.net.daraz.com",
         "bbs-bejav.assets.net.daraz.com",
+        "bbs.xhamster.com",
         "bbsrnetesr-oa-2.net.daraz.com",
         "bbstin-season.net.daraz.com",
         "bbtpl.finney-co.com",
@@ -503974,5 +503974,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
