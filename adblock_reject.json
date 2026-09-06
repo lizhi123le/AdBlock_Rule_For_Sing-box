@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -89862,6 +89863,7 @@
         "dthiv.ardentfitness.com",
         "dticketsabledns.ematicketlvticketsticketon.net.daraz.com",
         "dtignite.com",
+        "dtipvw.com",
         "dtk10.i1.tt.omtrdc.net",
         "dtkapu.mito.group",
         "dtkzm.txdot.tt.omtrdc.net",
@@ -503984,6 +503986,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
