@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-07 14:37:11
+# Generated on: 2026-09-07 20:09:17
 # Generated AdBlock rules
-# Total entries: 503983
+# Total entries: 503986
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -390228,6 +390228,7 @@
 "mivsptest2t.tt.omtrdc.net",
 "miw.mein-weinschrank.de",
 "miw.mijn-wijnkoelkast.nl",
+"miwxoqcbiswmx.com",
 "mix-adm.gslb.tt.omtrdc.net",
 "mix-bike.tt.omtrdc.net",
 "mix-bud.tt.omtrdc.net",
@@ -431874,6 +431875,7 @@
 "soglkuki.prolexgroup.ru",
 "sogtm.academy.org.il",
 "sogtm.colman.ac.il",
+"sogu.tripster.ru",
 "sohan.sodaibari.com",
 "sohiuc.sheego.de",
 "soimnu.nivki-park.com.ua",
@@ -452695,6 +452697,7 @@
 "tcv.camping-vogelsang.com",
 "tcvaj.revive-eo.com",
 "tcvhz.joahbrown.com",
+"tcwvvosfnvk.com",
 "tcx-beacon.docs.aws.dev",
 "tcxrdt.trendhim.be",
 "tczulp.econea.cz",
