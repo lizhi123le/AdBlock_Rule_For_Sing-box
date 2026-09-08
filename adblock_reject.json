@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -400707,6 +400708,7 @@
         "orpheopolisetmoi.orpheopolis.fr",
         "orpheus-it.actonservice.com",
         "orqhz.alexandrebirman.com",
+        "orsdls.di.runestone.samsung.com",
         "orsds.ziavia.com",
         "orsmfg.notino.de",
         "orthoclinical.tt.omtrdc.net",
@@ -425788,6 +425790,7 @@
         "sharpmarketing.eu",
         "shazzat.prinush.com",
         "shbtjz.directours.com",
+        "shealth-analytics-api.samsunghealth.com",
         "sheba.dhakapharmachy.com",
         "sheep.littleboat.digital",
         "sheep.macka.com.au",
@@ -469405,6 +469408,7 @@
         "urcaq.eberjey.com",
         "urdam.hillcrestmemorialgarden.com",
         "urdap.forever21.com",
+        "ureca.samsungapps.com",
         "urehgr.halekulani.com",
         "ureoaw.netthandelen.no",
         "ureq4.tt.omtrdc.net",
@@ -503991,6 +503995,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
