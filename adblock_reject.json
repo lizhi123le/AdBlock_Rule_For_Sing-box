@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -398736,6 +398735,7 @@
         "ofovp.mypeakchallenge.com",
         "ofpeg.trywellbe.de",
         "ofqkbk.proclipusa.com",
+        "ofroztlmyo.in",
         "ofvosb.jumbo.com.tr",
         "ofwdvh.suntransfers.com",
         "ofxmryjd.seller.walmart.com",
@@ -408083,6 +408083,7 @@
         "portal.xhlive.org",
         "portalfluently.com",
         "portfoliotwtelecom.azure.net.daraz.com",
+        "portiasaigon.com",
         "portoseguro.tt.omtrdc.net",
         "portovelho26.ondec.com.br",
         "portugalsko.net.daraz.com",
@@ -414103,6 +414104,7 @@
         "rta.dailymail.co.uk",
         "rta.redhomestore.com",
         "rta2.metro.co.uk",
+        "rta2.newscientist.com",
         "rta2.newzit.com",
         "rtag.farmers.com",
         "rtapi.abbi.io",
@@ -503995,5 +503997,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
