@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-08 16:52:12
+# Generated on: 2026-09-08 19:42:06
 # Generated AdBlock rules
-# Total entries: 503991
+# Total entries: 503992
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -32091,7 +32091,6 @@
 "assets9-sjc12-dr01.net.daraz.com",
 "assetsanywhere.links.rosieapp.com",
 "assetscloudfrontcar31.net.daraz.com",
-"assetsconfigcdn.org",
 "assetspartner.net.daraz.com",
 "assetssummer.net.daraz.com",
 "asshhenticate.net.daraz.com",
@@ -398740,6 +398739,7 @@
 "ofovp.mypeakchallenge.com",
 "ofpeg.trywellbe.de",
 "ofqkbk.proclipusa.com",
+"ofroztlmyo.in",
 "ofvosb.jumbo.com.tr",
 "ofwdvh.suntransfers.com",
 "ofxmryjd.seller.walmart.com",
@@ -408087,6 +408087,7 @@
 "portal.xhlive.org",
 "portalfluently.com",
 "portfoliotwtelecom.azure.net.daraz.com",
+"portiasaigon.com",
 "portoseguro.tt.omtrdc.net",
 "portovelho26.ondec.com.br",
 "portugalsko.net.daraz.com",
