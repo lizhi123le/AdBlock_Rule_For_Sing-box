@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -41911,6 +41912,7 @@
         "camns.stagingvision.net.daraz.com",
         "camp.camping.se",
         "camp.campingkeyeurope.se",
+        "camp.inc.com",
         "camp.p-city.com",
         "campagnes.hollandmediacombinatie.nl",
         "campaign-direct.eisai.jp",
@@ -291845,6 +291847,7 @@
         "events.pgsqlr-oa-1.net.daraz.com",
         "events.pldtenterprise.com",
         "events.plumbv.com",
+        "events.plutus.ninja",
         "events.pop3r-oa-1.net.daraz.com",
         "events.popinfo.jp",
         "events.prd.api.discomax.com",
@@ -412590,6 +412593,7 @@
         "request.idangels.org",
         "request.mitsui-chintai.co.jp",
         "request.verisign.com",
+        "rer4.com",
         "rerjk.bugmd.com",
         "rertrc.abc-mart.net",
         "reryn3ce.com",
@@ -502006,6 +502010,7 @@
         "zo7eijbeo2k.2o7fn6gvj2c6l971mhx88okj8x5.cyou",
         "zobgqg.sirobari.jp",
         "zobtmj.kiddies-kingdom.com",
+        "zodalt.com",
         "zodhqv.peterson.fr",
         "zodiac32.tt.omtrdc.net",
         "zoerxk.belifmeetsvdl.com",
@@ -504003,6 +504008,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
