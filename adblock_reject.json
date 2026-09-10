@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -387177,6 +387176,7 @@
         "metrics.dunkindonuts.com",
         "metrics.e-abbott.com",
         "metrics.e-wie-einfach.de",
+        "metrics.earlygame.com",
         "metrics.earrieta.dev",
         "metrics.eascanada.com",
         "metrics.eastcentral.aaa.com",
@@ -504003,5 +504003,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
