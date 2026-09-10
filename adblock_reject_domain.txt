@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-10 18:30:01
+# Generated on: 2026-09-10 19:53:45
 # Generated AdBlock rules
-# Total entries: 504003
+# Total entries: 504004
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -79289,6 +79289,7 @@
 "distribuidoraliverpo.tt.omtrdc.net",
 "distribution.provenpharma.com",
 "distributiontomatoes.com",
+"disutgh7q0ncc.cloudfront.net",
 "dit.whatsapp.net",
 "dit.whatsapp.net.iberostar.com",
 "ditoonjoaabledntoonjoa.emailvitoonjoaion.net.daraz.com",
