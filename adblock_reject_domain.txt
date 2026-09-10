@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-10 14:41:29
+# Generated on: 2026-09-10 18:30:01
 # Generated AdBlock rules
-# Total entries: 503999
+# Total entries: 504003
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -41916,6 +41916,7 @@
 "camns.stagingvision.net.daraz.com",
 "camp.camping.se",
 "camp.campingkeyeurope.se",
+"camp.inc.com",
 "camp.p-city.com",
 "campagnes.hollandmediacombinatie.nl",
 "campaign-direct.eisai.jp",
@@ -291850,6 +291851,7 @@
 "events.pgsqlr-oa-1.net.daraz.com",
 "events.pldtenterprise.com",
 "events.plumbv.com",
+"events.plutus.ninja",
 "events.pop3r-oa-1.net.daraz.com",
 "events.popinfo.jp",
 "events.prd.api.discomax.com",
@@ -412595,6 +412597,7 @@
 "request.idangels.org",
 "request.mitsui-chintai.co.jp",
 "request.verisign.com",
+"rer4.com",
 "rerjk.bugmd.com",
 "rertrc.abc-mart.net",
 "reryn3ce.com",
@@ -502011,6 +502014,7 @@
 "zo7eijbeo2k.2o7fn6gvj2c6l971mhx88okj8x5.cyou",
 "zobgqg.sirobari.jp",
 "zobtmj.kiddies-kingdom.com",
+"zodalt.com",
 "zodhqv.peterson.fr",
 "zodiac32.tt.omtrdc.net",
 "zoerxk.belifmeetsvdl.com",
