@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-11 17:42:39
+# Generated on: 2026-09-11 21:30:59
 # Generated AdBlock rules
-# Total entries: 504008
+# Total entries: 504015
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -20911,6 +20911,7 @@
 "ad1.tone.ne.jp",
 "ad1.udn.com",
 "ad2.avadacom.com",
+"ad2.fivecdm.com",
 "ad2.freeasianmovies.cam",
 "ad2.udn.com",
 "ad209-car44-web-wwww0node-authentication.net.daraz.com",
@@ -32248,6 +32249,7 @@
 "atc.rockmaster.com",
 "atc.trentinobusinessrun.it",
 "atcogroup.tt.omtrdc.net",
+"atddmn.com",
 "atelier.atelierxterieur.com",
 "ateveq.street-beat.ru",
 "atfcj.buypetals.com",
@@ -37160,6 +37162,7 @@
 "bicyclingtesting.share.ntv.io",
 "bicyclingvcyvca431c5nqzco.share.ntv.io",
 "bid-algorix.com",
+"bid.ctv.house",
 "bid.mbidtg.com",
 "bid.onclcktg.com",
 "bidbpo.dr-10.com",
@@ -306311,6 +306314,7 @@
 "get.yugengamers.com",
 "get.zpbettertogether.com",
 "get.zvrs.com",
+"getads.ru",
 "getae29-sjc12-dr01.net.daraz.com",
 "getaliveblue-ss.olladeals.com",
 "getapp.eltiempo.es",
@@ -375799,6 +375803,7 @@
 "log.bloombergfortune.share.ntv.io",
 "log.bunjang.co.kr",
 "log.businessprofile-reserve.tt.omtrdc.net",
+"log.calomeal.com",
 "log.checkmyfile.co.uk",
 "log.checkmyfile.com",
 "log.classting.com",
@@ -393116,6 +393121,7 @@
 "mycountymarket-bbanywhere.links.rosieapp.com",
 "mydario.actonservice.com",
 "mydas.mobi",
+"mydatascript.bubbleup.com",
 "mydccu.tt.omtrdc.net",
 "mydeze.croisierenet.com",
 "mydomainbest.com",
@@ -397997,6 +398003,7 @@
 "nyetae.eyeclinic-tokyo.jp",
 "nyfa-images.reviveservers.com",
 "nyfpt.cuddleandkind.com",
+"nyhizyjybawozi.com",
 "nyhzvh.dickhannahhonda.com",
 "nyig8qk5pwokhdx-p.adktrack30.xyz",
 "nym4tbher9qvldl-p.adktrack30.xyz",
