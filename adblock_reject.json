@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -20907,6 +20906,7 @@
         "ad1.tone.ne.jp",
         "ad1.udn.com",
         "ad2.avadacom.com",
+        "ad2.fivecdm.com",
         "ad2.freeasianmovies.cam",
         "ad2.udn.com",
         "ad209-car44-web-wwww0node-authentication.net.daraz.com",
@@ -32244,6 +32244,7 @@
         "atc.rockmaster.com",
         "atc.trentinobusinessrun.it",
         "atcogroup.tt.omtrdc.net",
+        "atddmn.com",
         "atelier.atelierxterieur.com",
         "ateveq.street-beat.ru",
         "atfcj.buypetals.com",
@@ -37156,6 +37157,7 @@
         "bicyclingtesting.share.ntv.io",
         "bicyclingvcyvca431c5nqzco.share.ntv.io",
         "bid-algorix.com",
+        "bid.ctv.house",
         "bid.mbidtg.com",
         "bid.onclcktg.com",
         "bidbpo.dr-10.com",
@@ -306307,6 +306309,7 @@
         "get.yugengamers.com",
         "get.zpbettertogether.com",
         "get.zvrs.com",
+        "getads.ru",
         "getae29-sjc12-dr01.net.daraz.com",
         "getaliveblue-ss.olladeals.com",
         "getapp.eltiempo.es",
@@ -375795,6 +375798,7 @@
         "log.bloombergfortune.share.ntv.io",
         "log.bunjang.co.kr",
         "log.businessprofile-reserve.tt.omtrdc.net",
+        "log.calomeal.com",
         "log.checkmyfile.co.uk",
         "log.checkmyfile.com",
         "log.classting.com",
@@ -393112,6 +393116,7 @@
         "mycountymarket-bbanywhere.links.rosieapp.com",
         "mydario.actonservice.com",
         "mydas.mobi",
+        "mydatascript.bubbleup.com",
         "mydccu.tt.omtrdc.net",
         "mydeze.croisierenet.com",
         "mydomainbest.com",
@@ -397993,6 +397998,7 @@
         "nyetae.eyeclinic-tokyo.jp",
         "nyfa-images.reviveservers.com",
         "nyfpt.cuddleandkind.com",
+        "nyhizyjybawozi.com",
         "nyhzvh.dickhannahhonda.com",
         "nyig8qk5pwokhdx-p.adktrack30.xyz",
         "nym4tbher9qvldl-p.adktrack30.xyz",
@@ -504013,5 +504019,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
