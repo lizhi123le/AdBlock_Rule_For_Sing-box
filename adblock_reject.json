@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -78313,6 +78312,7 @@
         "dicesuki.goasrv.com",
         "dicetek.makemytrip.tt.omtrdc.net",
         "dichvuonline.goasrv.com",
+        "diciestchokybuffi.cyou",
         "dicontent.ckapis.com",
         "dicsr.jadedldn.com",
         "dictionarycomllc.tt.omtrdc.net",
@@ -408524,6 +408524,7 @@
         "prebid.scope3.com",
         "prebid.tapatalk.com",
         "precisionmed.novanta.com",
+        "precoxwurzels.qpon",
         "predataclient.b-cdn.net",
         "preference.americafirst.com",
         "preference.marketing.nascar.com",
@@ -504038,5 +504039,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
