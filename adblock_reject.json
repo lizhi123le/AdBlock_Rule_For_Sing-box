@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -426328,6 +426329,7 @@
         "simscale.actonservice.com",
         "simule.ademiconbr.com",
         "sinapsesolar.tupimob.com",
+        "sinceaware.com",
         "sinfo.dtcidev.co",
         "singapore.udtrucks.com",
         "singed.docs.net.daraz.com",
@@ -504042,6 +504044,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
