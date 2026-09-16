@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -26791,6 +26792,7 @@
         "analyticsresults.smartexperts.de",
         "analyticsresults.zahltsichausbildung.de",
         "analyticss.miraiclinical.com",
+        "analyticssec.overwolf.com",
         "analyticsssl.forcepoint.com",
         "analyticsstp.simcorner.com",
         "analyticstest.amica.com",
@@ -64499,6 +64501,7 @@
         "counter.tldw.me",
         "counter.top.ge",
         "counter.ukr.net",
+        "counter.wargamings.net",
         "counter.web.money",
         "counter.websitevoice.com",
         "counter.zerohedge.com",
@@ -73402,7 +73405,6 @@
         "data.titancert.test.ajo.adobe.com",
         "data.titancert1.test.ajo.adobe.com",
         "data.tk4express.com.br",
-        "data.tm-awx.com",
         "data.tmail.northeast.aaa.com",
         "data.todoalicante.es",
         "data.tomferry.com",
@@ -504044,6 +504046,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
