@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -334900,6 +334899,7 @@
         "hongleongassurance.tt.omtrdc.net",
         "honor.omrf.org",
         "honorhealth.hrm.healthgrades.com",
+        "hoof.absentwhack.com",
         "hoojts.demmelhuber.net",
         "hooks.geralbet.bet.br",
         "hooks.lider.bet.br",
@@ -393604,6 +393604,7 @@
         "n.lexusfinancial.com",
         "n.lolaluna.com",
         "n.netquote.com",
+        "n.nstbrowser.io",
         "n.qwinsta.se",
         "n.russ-porno.net",
         "n.stcatharinesstandard.ca",
@@ -504052,5 +504053,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
