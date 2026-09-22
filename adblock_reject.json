@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -24604,6 +24603,7 @@
         "alam.alaminpublication.com",
         "alamocapital.actonservice.com",
         "alanbishop-stagebollyshare.net.daraz.com",
+        "alaphoid.com",
         "alapita.openapp.link",
         "alapoet.boyfriend.show",
         "alatinhorization.summer.net.daraz.com",
@@ -504067,5 +504067,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
