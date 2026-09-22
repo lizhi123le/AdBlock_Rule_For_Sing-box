@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-22 22:36:47
+# Generated on: 2026-09-22 23:48:14
 # Generated AdBlock rules
-# Total entries: 504063
+# Total entries: 504067
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -33746,6 +33746,7 @@
 "azjik.shophigh.co.uk",
 "azkmuprv.vroeg.nl",
 "azlej8cdm.pragmaticwebsecurity.com",
+"azlfmivp.in",
 "azlyta.immowelt.de",
 "aznmpb.tokyu-land.co.jp",
 "aznude.workers.dev",
@@ -416767,6 +416768,7 @@
 "salmon.thespiritualpsychologist.co.uk",
 "salto.freeto.jp",
 "saltsabar.openapp.link",
+"salungavine.com",
 "salzburg.semsea.at",
 "sam.conversaoempresarial.com",
 "sam.manager-magazin.de",
@@ -449134,6 +449136,7 @@
 "stts.swisshranalytics.ch",
 "sttshub.tipmanager.net",
 "stubhub.tt.omtrdc.net",
+"studdisablerely.com",
 "student-k8s-prd.n-switch.net.daraz.com",
 "student.drphiliptisdall.com",
 "student.resolveaccept.share.ntv.io",
@@ -479815,6 +479818,7 @@
 "wamssoprd-d.lbd.tt.omtrdc.net",
 "wan.kbdmp.com",
 "wan1.bmo.tt.omtrdc.net",
+"wanlycoxier.com",
 "wanttowatchdocs.chiccams.com",
 "wao.atu.de",
 "wao.shashokudeli.com",
