@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -29887,6 +29886,7 @@
         "app.bushnell.org",
         "app.butterflymx.com",
         "app.bws.com.au",
+        "app.bxapi.de",
         "app.byjus.com",
         "app.byutickets.com",
         "app.cabmyride.com",
@@ -74548,6 +74548,7 @@
         "delivery.securlab.it",
         "delivery.senvangvn.com",
         "delivery.sexyxxx.biz",
+        "delivery.viewsense.ai",
         "dell.compellent.com",
         "delltechnologies.tt.omtrdc.net",
         "delmarvanowmmspdistribe.tt.omtrdc.net",
@@ -294218,6 +294219,7 @@
         "fairway.golfballplanet.com",
         "fairwaymarket-whitelabel.links.rosieapp.com",
         "fairy.wfairyg.com",
+        "fairycarboys.qpon",
         "faithfulcounseling.axsgroup.tt.omtrdc.net",
         "faithinthenews-tastingtable.share.ntv.io",
         "faithinthenews.administrator.share.ntv.io",
@@ -387833,6 +387835,7 @@
         "metrics.lexusofwatertown.com",
         "metrics.lexusofwayzata.com",
         "metrics.lexussantamonicamobile.com",
+        "metrics.li",
         "metrics.lichthallemaag.ch",
         "metrics.life.com",
         "metrics.lifetime.life",
@@ -395407,6 +395410,7 @@
         "niavz.monstersteamer.net",
         "nice.theperryai.com",
         "nice.tranny.one",
+        "nicelymodulo.com",
         "nicequest.com",
         "nick.flexed-foods.com",
         "nickhel.com",
@@ -403822,6 +403826,7 @@
         "palaios.dept.tt.omtrdc.net",
         "palantir-orpb.net.daraz.com",
         "palantir0.all.tt.omtrdc.net",
+        "palateonce.com",
         "palatine.stage-mybooster.net.daraz.com",
         "palatine.staging-bejav.net.daraz.com",
         "palava-munin.net.daraz.com",
@@ -414821,6 +414826,7 @@
         "rtb.traffic-gold.com",
         "rtb.trafficfactory.com",
         "rtb.videonow.ru",
+        "rtb.viewsense.ai",
         "rtb.vokut.com",
         "rtb.voltaxam.com",
         "rtb2-apac.affinity.net",
@@ -504081,5 +504087,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
