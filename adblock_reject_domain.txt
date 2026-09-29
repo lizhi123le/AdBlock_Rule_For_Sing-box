@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-29 16:47:40
+# Generated on: 2026-09-29 20:53:41
 # Generated AdBlock rules
 # Total entries: 504094
 
@@ -37182,6 +37182,7 @@
 "bid.ctv.house",
 "bid.mbidtg.com",
 "bid.onclcktg.com",
+"bid.pleasedmad.com",
 "bidbpo.dr-10.com",
 "bidder.a11.vega.aurion11.io",
 "bidder.doceree.com",
@@ -64483,7 +64484,6 @@
 "count.shein.com",
 "count.sibbo.net",
 "count.vidsrc.pro",
-"counter-mdpr.freetls.fastly.net",
 "counter.1gb.ru",
 "counter.24log.es",
 "counter.ajansspor.com",
