@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -27688,6 +27689,7 @@
         "api-r-is-1-2.net.daraz.com",
         "api-resolveaccept-shop.share.ntv.io",
         "api-rtic-stage.net.daraz.com",
+        "api-sdk.beaconbank.jp",
         "api-secops-stage.net.daraz.com",
         "api-seller-shop-stage.net.daraz.com",
         "api-shrek.net.jumia.com.gh",
@@ -39486,7 +39488,6 @@
         "brotherinternational.tt.omtrdc.net",
         "brownies.bobbyseamoss.com",
         "browser-fp.production.linktr.ee",
-        "browser-intake-datadoghq.eu",
         "browser.events.data.msn.cn",
         "browser.events.data.msn.com",
         "browser.pipe.aria.microsoft.com",
@@ -449060,6 +449061,7 @@
         "strawberry.basf.us",
         "strawberry.essenzshop.rs",
         "strayeruniversity.tt.omtrdc.net",
+        "stream-log.profilepassport.jp",
         "stream.9now.com.au",
         "stream.borza.com",
         "stream.corporatefinanceinstitute.com",
@@ -504102,6 +504104,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
