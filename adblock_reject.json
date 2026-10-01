@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -94310,6 +94309,7 @@
         "edge.country99.com",
         "edge.creator4real.com",
         "edge.crimeandinvestigation.ca",
+        "edge.cuddlybeside.com",
         "edge.curiouscast.ca",
         "edge.cyasupply.com",
         "edge.db-finanzberatung.de",
@@ -504104,5 +504104,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
