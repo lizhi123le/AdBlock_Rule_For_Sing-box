@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -499709,6 +499710,7 @@
         "ymx.tt.omtrdc.net",
         "ymz100.tt.omtrdc.net",
         "ymz93.tt.omtrdc.net",
+        "ymzu9eeo1y.ru",
         "yn.mobulafoxtrot.cyou",
         "yn.playboywombier.cfd",
         "yn.tt.omtrdc.net",
@@ -504101,6 +504103,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
