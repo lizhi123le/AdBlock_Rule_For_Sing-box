@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-05 13:41:14
+# Generated on: 2026-10-05 20:46:22
 # Generated AdBlock rules
-# Total entries: 504117
+# Total entries: 504121
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -29482,9 +29482,11 @@
 "apm-native.xiaohongshu.com",
 "apm-track.xiaohongshu.com",
 "apm.relationshipone.com",
+"apm.volccdn.com",
 "apm.yahoo.co.jp",
 "apmgmtication-spring.net.daraz.com",
 "apmplus.ap-southeast-1.volces.com",
+"apmplus.volces.com",
 "apnov-statnovc-stage.net.daraz.com",
 "apohk.moventashop.com",
 "apollo-accept-11ticket.share.ntv.io",
@@ -78031,6 +78033,7 @@
 "dgwa.getsnoozy.com",
 "dgwa.snoozygummies.com",
 "dgwa.studio10beauty.com",
+"dgwxaedsrledc.site",
 "dgyqlk.simplycarbonfiber.com",
 "dgyy59yc.xyz",
 "dgztiz.conrad.se",
@@ -298960,6 +298963,7 @@
 "fmdl3-1.tt-qe2.omtrdc.net",
 "fmdz1-1.tt-qe2.omtrdc.net",
 "fmel10-1.tt-stage3.omtrdc.net",
+"fmepuzstjrkqv.website",
 "fmextweb101.tt.omtrdc.net",
 "fmfacts.tt.omtrdc.net",
 "fmfwpr.fm.tt.omtrdc.net",
