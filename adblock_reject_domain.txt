@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-05 10:11:22
+# Generated on: 2026-10-05 13:41:14
 # Generated AdBlock rules
-# Total entries: 504114
+# Total entries: 504117
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -88033,6 +88033,7 @@
 "druckerpatronen1.net.daraz.com",
 "drude.physik.tt.omtrdc.net",
 "drudger.tt.omtrdc.net",
+"drug.shrillyclose.com",
 "drugfree.tt.omtrdc.net",
 "drugname-ai-uat-1a.tt.omtrdc.net",
 "drugtest.questdiagnostics.com",
@@ -292188,6 +292189,7 @@
 "evs.data.ciceksepeti.com",
 "evs.microntechnology.tt.omtrdc.net",
 "evs.segment.complex.com",
+"evs.segwww.incident.io",
 "evs.sgmt.loom.com",
 "evs0017-3.tt.omtrdc.net",
 "evs882001.tt.omtrdc.net",
@@ -299896,6 +299898,7 @@
 "fourier.taobao.com",
 "fourmiliere.formy.be",
 "fourmore.stanchartpk.tt.omtrdc.net",
+"fourthdistributeexpecting.com",
 "fouster.tt.omtrdc.net",
 "fout.jp",
 "fowl.teamyap.app",
