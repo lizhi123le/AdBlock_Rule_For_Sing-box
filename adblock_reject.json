@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -32035,7 +32034,6 @@
         "assets.net.daraz.com",
         "assets.nubika.es",
         "assets.ogrzewanie-pex.pl",
-        "assets.onedollarstats.com",
         "assets.oupe.es",
         "assets.piercingkungen.se",
         "assets.prydligt.com",
@@ -289203,6 +289201,7 @@
         "erg.ihclam.cn",
         "erg.ite.tt.omtrdc.net",
         "erg1tst.e.tt.omtrdc.net",
+        "ergadx.com",
         "ergd.media.tt.omtrdc.net",
         "ergebnis-dienst.de3323174.notifysrv.com",
         "ergode.tt.omtrdc.net",
@@ -359227,6 +359226,7 @@
         "lilly.tt.omtrdc.net",
         "lilogy.actonservice.com",
         "lilpr.barbanortena.com",
+        "lilstts.com",
         "lilthn.mollyg.com",
         "lim.fit-und-schlank.com",
         "lim.getnutrim.com",
@@ -422602,6 +422602,7 @@
         "servside.rxrprotect.com",
         "servst.berkeleypsychiatrists.co.uk",
         "servsta.alezz-oud.com",
+        "servt.ergadx.com",
         "servw.bid",
         "ses.eskill.com",
         "seshat.speenwinkel.be",
@@ -504134,5 +504135,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
