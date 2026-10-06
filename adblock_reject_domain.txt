@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-06 14:40:22
+# Generated on: 2026-10-06 21:41:30
 # Generated AdBlock rules
-# Total entries: 504128
+# Total entries: 504131
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -32039,7 +32039,6 @@
 "assets.net.daraz.com",
 "assets.nubika.es",
 "assets.ogrzewanie-pex.pl",
-"assets.onedollarstats.com",
 "assets.oupe.es",
 "assets.piercingkungen.se",
 "assets.prydligt.com",
@@ -289207,6 +289206,7 @@
 "erg.ihclam.cn",
 "erg.ite.tt.omtrdc.net",
 "erg1tst.e.tt.omtrdc.net",
+"ergadx.com",
 "ergd.media.tt.omtrdc.net",
 "ergebnis-dienst.de3323174.notifysrv.com",
 "ergode.tt.omtrdc.net",
@@ -359231,6 +359231,7 @@
 "lilly.tt.omtrdc.net",
 "lilogy.actonservice.com",
 "lilpr.barbanortena.com",
+"lilstts.com",
 "lilthn.mollyg.com",
 "lim.fit-und-schlank.com",
 "lim.getnutrim.com",
@@ -399588,6 +399589,7 @@
 "one.nidec.com",
 "one.quotewizard.com",
 "one.rizqshopping.com",
+"one01.stright.bizris.com",
 "one2.onestep.fr",
 "onebloodinc.tt.omtrdc.net",
 "onechartmail.northside.com",
@@ -422605,6 +422607,7 @@
 "servside.rxrprotect.com",
 "servst.berkeleypsychiatrists.co.uk",
 "servsta.alezz-oud.com",
+"servt.ergadx.com",
 "servw.bid",
 "ses.eskill.com",
 "seshat.speenwinkel.be",
