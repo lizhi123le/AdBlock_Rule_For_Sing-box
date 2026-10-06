@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-06 09:34:28
+# Generated on: 2026-10-06 14:40:22
 # Generated AdBlock rules
-# Total entries: 504123
+# Total entries: 504128
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -25978,6 +25978,7 @@
 "analytics.ikarao-shop.com",
 "analytics.ikyu.com",
 "analytics.infinitidesign.it",
+"analytics.infomaniak.com",
 "analytics.infosys.com",
 "analytics.infosys.org",
 "analytics.infosysbpm.com",
@@ -37399,6 +37400,7 @@
 "bioshockconbert2mp3.net.daraz.com",
 "biot.byads.co",
 "bipog.perfectwhitetee.com",
+"biprx.n12.co.il",
 "biqizo.vixpaulahermanny.com",
 "bird.brondby.com",
 "bird.hecten.com",
@@ -39972,6 +39974,7 @@
 "buaal.pharmacyonline.co.uk",
 "buacceptatieketns2.twteleacceptatieom.net.daraz.com",
 "buasmk.earthshoes.com",
+"buballmighty.com",
 "bubasocks-ss.checkoutera.com",
 "bubasocks-ss.shopperoc.com",
 "bubblesmedia.ru",
@@ -79152,6 +79155,7 @@
 "disgbledns.emgilvision.net.daraz.com",
 "dish.com.sc.tt.omtrdc.net",
 "dish.com.ssl.sc.tt.omtrdc.net",
+"dish.yippeeidle.com",
 "dishanalyticsandtest-profile.tt.omtrdc.net",
 "dishanalyticsandtest.info.tt.omtrdc.net",
 "dishanalyticsandtest.testing.tt.omtrdc.net",
@@ -431500,6 +431504,7 @@
 "smon.nativeamericanheritagemonth.gov",
 "smon.womenshistorymonth.gov",
 "smoot.egeyikesfet.com",
+"smoothhmph.com",
 "smosh.share.ntv.io",
 "smp.tus.ac.jp",
 "smpl.hit.ppdb.pl",
