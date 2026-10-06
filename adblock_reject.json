@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -337503,7 +337504,6 @@
         "hungary.inklabs.hu",
         "hungry-exit.com",
         "hunt.elcorteingles.es",
-        "hunt.goshupward.com",
         "hunt.pirschershop.de",
         "huntclubst.huntclubchiropractic.com",
         "hunterindustries.actonservice.com",
@@ -504144,6 +504144,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
