@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -72983,6 +72984,7 @@
         "data.permittingnorthlandseamen.info",
         "data.petbarn.test.ajo.adobe.com",
         "data.petbox.pl",
+        "data.petri.com",
         "data.petsecur.nl",
         "data.pfh.de",
         "data.phenomestraps.com",
@@ -504143,6 +504145,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
