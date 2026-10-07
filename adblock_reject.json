@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -452505,6 +452504,7 @@
         "targetspot.com",
         "targetstore.actonservice.com",
         "targettur.www.svenskaspel.se",
+        "taro.sansyettusk.com",
         "tarsier.emitremmus.com",
         "tarsier.kriterie.se",
         "tartaros.chiccams.com",
@@ -454126,6 +454126,7 @@
         "timesleader.tt.omtrdc.net",
         "timeslot.cambridgeinvestmentr.tt.omtrdc.net",
         "timestamp-reno02.tt.omtrdc.net",
+        "timestorn.com",
         "timestudentpt-staging.staging.ugportal.net.daraz.com",
         "timestudentpt.stage-mybooster.net.daraz.com",
         "timestudentpt.stage-teva.net.daraz.com",
@@ -504158,5 +504159,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
