@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-07 10:49:34
+# Generated on: 2026-10-07 17:18:33
 # Generated AdBlock rules
-# Total entries: 504142
+# Total entries: 504147
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -27696,6 +27696,7 @@
 "api-r-is-1-2.net.daraz.com",
 "api-resolveaccept-shop.share.ntv.io",
 "api-rtic-stage.net.daraz.com",
+"api-sdk-tracking.beaconbank.jp",
 "api-sdk.beaconbank.jp",
 "api-secops-stage.net.daraz.com",
 "api-seller-shop-stage.net.daraz.com",
@@ -67522,6 +67523,7 @@
 "d.gordetmedrw.se",
 "d.greatmarketing.ai",
 "d.grey.co",
+"d.ground.news",
 "d.growify.ai",
 "d.gruvi.link",
 "d.guidedascentcoaching.com",
@@ -327547,6 +327549,7 @@
 "gtm.gridhaussystems.co.uk",
 "gtm.gridx.lu",
 "gtm.gringaschool.com",
+"gtm.ground.news",
 "gtm.groupsoftware.com.br",
 "gtm.growarq.com",
 "gtm.grpcorretora.com.br",
@@ -411210,6 +411213,7 @@
 "r-oa-1.net.daraz.com",
 "r-oa-2.net.daraz.com",
 "r-qa.urbansitter.net",
+"r-tag.coeteco.jp",
 "r.aachener-zeitung.de",
 "r.akipam.com",
 "r.anamagnani.com.br",
@@ -451496,6 +451500,7 @@
 "tag.findmassmoney.com",
 "tag.findmassmoney.gov",
 "tag.findyourunclaimedproperty.com",
+"tag.flvcdn.net",
 "tag.fmscycles.com",
 "tag.foreverfierce.com",
 "tag.franquiahomeangels.com.br",
