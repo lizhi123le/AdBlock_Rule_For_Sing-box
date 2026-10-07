@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-07 10:32:10
+# Generated on: 2026-10-07 10:49:34
 # Generated AdBlock rules
-# Total entries: 504140
+# Total entries: 504142
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -299663,6 +299663,7 @@
 "forosraganforosforosropobjects.net.daraz.com",
 "foroswww.partner.net.daraz.com",
 "forpci3.siege-corp.com",
+"fort.toovaliantly.com",
 "fortinet.tt.omtrdc.net",
 "fortoemail.arteks.net",
 "fortune-ciotest2.share.ntv.io",
@@ -463158,6 +463159,7 @@
 "traxion.go-srv.com",
 "traxion.schweizerischesbb.tt.omtrdc.net",
 "traxion.sunbeltrentals.tt.omtrdc.net",
+"tray.ackvainly.com",
 "trazurevisioniningcsr41.net.daraz.com",
 "trb2bin-r-ob2b-1.net.daraz.com",
 "trberndpulchmedotcom-merchantn-www.net.daraz.com",
