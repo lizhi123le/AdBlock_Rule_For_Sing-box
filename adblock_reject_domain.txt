@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-07 17:25:14
+# Generated on: 2026-10-08 00:42:46
 # Generated AdBlock rules
-# Total entries: 504147
+# Total entries: 504150
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -20431,6 +20431,7 @@
 "accuzip.actonservice.com",
 "accvaccilaccble.net.daraz.com",
 "acdbc409c2.30c774812d.com",
+"acdn.newshuntads.com",
 "ace.naver.com",
 "acecashexpress.tt.hb-fa-dev.tt.omtrdc.net",
 "acecashexpress.tt.omtrdc.net",
@@ -349674,6 +349675,7 @@
 "jenny.jenny-app.com",
 "jensenhughes.actonservice.com",
 "jensenprecast.actonservice.com",
+"jentii.online",
 "jep.juanestebanpe.com",
 "jeq0mgdwkdpa84qh.net.daraz.com",
 "jeruk.tarpys.com",
@@ -417240,6 +417242,7 @@
 "sanl.ladyfootlocker.com",
 "sanl.six02.com",
 "sanmet.originenergy.com.au",
+"sansyettusk.com",
 "santacruz.xhlive.cam",
 "santander-open-academy.cip.test.ajo.adobe.com",
 "santanderargentina.tt.omtrdc.net",
