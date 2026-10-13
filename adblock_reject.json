@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19873,6 +19872,7 @@
         "a.weareknitters.pl",
         "a.weareknitters.se",
         "a.wheelabratorgroup.com",
+        "a.wing.st",
         "a.worbler.ai",
         "a.yamcha.xyz",
         "a.zleep.com",
@@ -544999,5 +544999,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
