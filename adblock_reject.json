@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -451923,6 +451922,7 @@
         "rt.ayudafinancieras.com",
         "rt.balletbeautiful.com",
         "rt.biovitalcorelab.com",
+        "rt.buzzni.com",
         "rt.connectprosnow.com",
         "rt.dailycarepro.com",
         "rt.dispo-seo.com",
@@ -545002,5 +545002,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
