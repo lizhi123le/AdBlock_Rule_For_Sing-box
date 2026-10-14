@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-14 14:48:33
+# Generated on: 2026-10-14 20:31:03
 # Generated AdBlock rules
-# Total entries: 544999
+# Total entries: 544998
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -34709,7 +34709,6 @@
 "api.srceprirode.rs",
 "api.stahlhart.com.br",
 "api.startbeglobal.com",
-"api.statsig.com",
 "api.statsigcdn.com",
 "api.staydepot.com.br",
 "api.stelariss.com.br",
@@ -367496,7 +367495,6 @@
 "html-converter-nonprod.analytics-hs-test.admin-silver-cicd.tt-qe5.omtrdc.net",
 "html-grab.tt.omtrdc.net",
 "html-jam.tt.omtrdc.net",
-"html-load.cc",
 "html-testmac.tt.omtrdc.net",
 "html.canadiantire.tt.omtrdc.net",
 "html.mlbadvancedmedialp.tt.omtrdc.net",
@@ -391369,6 +391367,7 @@
 "lib.net.daraz.com",
 "lib00d70000000motieas.net.daraz.com",
 "libaz.splashwines.com",
+"libelintent.com",
 "libertygeneralinsurancelimited-02.tt.omtrdc.net",
 "libertyglobalpaneu.tt.omtrdc.net",
 "libertyhomeequity.actonservice.com",
