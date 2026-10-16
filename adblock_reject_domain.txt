@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-16 08:51:17
+# Generated on: 2026-10-16 13:02:27
 # Generated AdBlock rules
-# Total entries: 545289
+# Total entries: 545293
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -68758,6 +68758,7 @@
 "config.sound.ag",
 "config.tattilashes.com",
 "config.toto.zipoapps.com",
+"config.trackingplan.com",
 "config.tremorhub.com",
 "config.venuesearchlondon.com",
 "config.verizontelecom.tt.omtrdc.net",
@@ -318848,6 +318849,7 @@
 "eu-teitelbaum.citizensbank.tt.omtrdc.net",
 "eu-test.eu-central-1.mboxedge1.tt-qe5.omtrdc.net",
 "eu-test.login.account.tt.omtrdc.net",
+"eu-tracks.trackingplan.com",
 "eu-trn-api.tt-stage3.omtrdc.net",
 "eu-u.tt.omtrdc.net",
 "eu-ucservices-eu01.tt.omtrdc.net",
@@ -410233,6 +410235,7 @@
 "log.minitab.tt.omtrdc.net",
 "log.mix.sina.com.cn",
 "log.mobilebanking.tt.omtrdc.net",
+"log.mopo.de",
 "log.motortrend-adsfortune.share.ntv.io",
 "log.motortrend.fortune.share.ntv.io",
 "log.musical.ly",
@@ -502783,6 +502786,7 @@
 "tracks.davidkingsbury.co.uk",
 "tracks.new-statement.com",
 "tracks.roomster.com",
+"tracks.trackingplan.com",
 "tracks.tt.omtrdc.net",
 "tracks1.ferrari.com",
 "tracks3.ferrari.com",
