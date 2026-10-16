@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -332355,6 +332356,7 @@
         "g.probatterij.nl",
         "g.restoreyourcore.com",
         "g.rocket-school.com",
+        "g.rtbrain.app",
         "g.rushtranslate.com",
         "g.saksooka.com",
         "g.scharfenstein.eu",
@@ -545300,6 +545302,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
