@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-19 14:43:58
+# Generated on: 2026-10-19 19:02:40
 # Generated AdBlock rules
-# Total entries: 545297
+# Total entries: 545301
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -44386,6 +44386,7 @@
 "bigbunnymarketengineering.links.rosieapp.com",
 "bigconfigs.reliableequipmentparts.com",
 "bigcustomernetwork.actonservice.com",
+"bigdata-scfx-push.kucoin.plus",
 "bigdata.clarin.com",
 "bigfluffycatexchange.crabdance.com",
 "bigisland.shakaguide.com",
@@ -428741,6 +428742,7 @@
 "mxoqqu.uniwigs.com",
 "mxpdsu.bhv.fr",
 "mxpl.9gag.com",
+"mxqdpxzybpx.com",
 "mxro404jyfkxekbo.administrators.net.daraz.com",
 "mxslobalid3.click.s11.sfmc-osl.com",
 "mxsvjc.hackers.ac",
@@ -451228,6 +451230,7 @@
 "rfmqx.tanga.com",
 "rfnhj.sleeponchime.com",
 "rfp.intuit.com",
+"rfsdvudff.com",
 "rfsquk.medicaresavingslab.com",
 "rfss.russellfinex.com",
 "rfssm.iliabeauty.com",
@@ -497362,6 +497365,7 @@
 "tpi-app.herokuapp.com",
 "tpiqbv.pixartprinting.ch",
 "tpivd.tea-direct.co.uk",
+"tpiwudolrna.in",
 "tpjehb.addax.com.tr",
 "tpkecsr41.net.daraz.com",
 "tpko5g8ai9we8jiu.wlan-switch.partner.nautilus.net.daraz.com",
