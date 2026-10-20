@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -446447,7 +446446,6 @@
         "node-partner.net.daraz.com",
         "node-r-dw-1.net.daraz.com",
         "node.01-caauthenticate21-10-authenticate-oa-1.net.daraz.com",
-        "node.aibeacon.jp",
         "node.azur-online.de",
         "node.azure.net.daraz.com",
         "node.bodegadigital.biz",
@@ -561744,5 +561742,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
