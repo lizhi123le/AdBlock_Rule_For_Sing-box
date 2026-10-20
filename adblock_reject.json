@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -333091,6 +333090,7 @@
         "exponensialstage.github.global.ssl.fastly.net.daraz.com",
         "exponent.acronymmedia.tt.omtrdc.net",
         "exponent.bbh.tt.omtrdc.net",
+        "exponential.com",
         "exponentpartners.tt.omtrdc.net",
         "export-cb-uat.securebusiness.tt.omtrdc.net",
         "export.ac-cned.fr",
@@ -561744,5 +561744,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
