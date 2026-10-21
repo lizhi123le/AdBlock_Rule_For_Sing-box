@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-21 09:57:47
+# Generated on: 2026-10-21 14:49:00
 # Generated AdBlock rules
-# Total entries: 571672
+# Total entries: 571675
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -40469,6 +40469,7 @@
 "at3.net.daraz.com",
 "at4o32tletujy7e4.emrj82plvision.authenticate.net.daraz.com",
 "atad.douchezaak.nl",
+"atag.adgile.media",
 "atarget.adelaide.edu.au",
 "atarget.csu.edu.au",
 "atarget.firstrepublic.com",
@@ -40546,6 +40547,7 @@
 "atlas-tunnel.19.altad.share.ntv.io",
 "atlas-webct.19.altad.share.ntv.io",
 "atlas-www.partner.net.daraz.com",
+"atlas.atsptp.com",
 "atlas.bellsouth.northamerica.net.daraz.com",
 "atlas1.krone.at",
 "atlasbackups-22.19.altad.share.ntv.io",
@@ -562976,6 +562978,7 @@
 "x.ae2-dfw3-dr02.net.daraz.com",
 "x.api-cdn-ca-2ssl-initcom.hb-api.tt.omtrdc.net",
 "x.api-localhost.net.daraz.com",
+"x.appbrain.com",
 "x.arena-rave.de",
 "x.asana.r-hx-1.net.daraz.com",
 "x.assetsyancancook.net.daraz.com",
