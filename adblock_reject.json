@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -85593,6 +85592,7 @@
         "data.voorkappers.be",
         "data.voyager.dev.cjmadobe.com",
         "data.voybien.com",
+        "data.vzhh.de",
         "data.waleskamarinho.com",
         "data.wallartsmetal.com",
         "data.wanderingowl.com",
@@ -512380,6 +512380,7 @@
         "stats.crunchtime.fun",
         "stats.crypdit.com",
         "stats.cuddlers.co.za",
+        "stats.curd.io",
         "stats.curtiscummings.me",
         "stats.cybersim.de",
         "stats.cyknij.com",
@@ -571842,5 +571843,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
