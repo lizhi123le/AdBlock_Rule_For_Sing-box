@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -411652,6 +411651,7 @@
         "line1-log.biligame.net",
         "lineadirectaes.tt.omtrdc.net",
         "lineartechnik.item24.de",
+        "linecrs.line-scdn.net",
         "linemark.actonservice.com",
         "linen.allevyacomfortco.com",
         "lineside.networkrail.co.uk",
@@ -571840,5 +571840,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
