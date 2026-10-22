@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-22 15:36:12
+# Generated on: 2026-10-22 18:41:43
 # Generated AdBlock rules
-# Total entries: 571833
+# Total entries: 571836
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -39272,6 +39272,7 @@
 "applytics.napps-1.com",
 "applytics.nordvpn.com",
 "applytics.os4work.com",
+"applytics.zwyr157wwiu6eior.com",
 "applzr.com",
 "appmail.castlegroup.com",
 "appmail.corazonpuro.org",
@@ -411655,6 +411656,7 @@
 "line1-log.biligame.net",
 "lineadirectaes.tt.omtrdc.net",
 "lineartechnik.item24.de",
+"linecrs.line-scdn.net",
 "linemark.actonservice.com",
 "linen.allevyacomfortco.com",
 "lineside.networkrail.co.uk",
@@ -476803,6 +476805,7 @@
 "rtb.julang.taobao.com",
 "rtb.klico.link",
 "rtb.nativeads.com",
+"rtb.nefta.app",
 "rtb.nowsrv.com",
 "rtb.nuismak.com",
 "rtb.optidigital.com",
