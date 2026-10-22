@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -550221,6 +550222,7 @@
         "witunneler.signed.net.daraz.com",
         "wiuter.firewall.net.daraz.com",
         "wiuyjxbqhsxwpus-c.adktrack39.xyz",
+        "wivowu.my",
         "wiwa.williamwalker.be",
         "wiwa.williamwalker.ch",
         "wiwa.williamwalker.de",
@@ -571840,6 +571842,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
