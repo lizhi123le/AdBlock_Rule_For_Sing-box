@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-23 11:18:36
+# Generated on: 2026-10-23 14:31:33
 # Generated AdBlock rules
-# Total entries: 571839
+# Total entries: 571843
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -410544,6 +410544,7 @@
 "ldcheg.glamira.pt",
 "ldckmk.divarese.com.tr",
 "ldcqh.reynspooner.com",
+"ldfyjedytzkpx.space",
 "ldhteg.mooihorloge.nl",
 "ldinry.drinks.ch",
 "ldkml.luxskin.co",
@@ -460750,6 +460751,7 @@
 "otfur.craneandcanopy.com",
 "otgam.zox.co",
 "othanasis.openapp.link",
+"othbmudutr.in",
 "other.appcpi.net",
 "othisf.tagomago.pl",
 "othvwz.thelittlegreenbag.be",
@@ -519884,6 +519886,7 @@
 "tiny-ruth-dev.accountaccess-internal-devaltproduction.tt-stage-ci1.omtrdc.net",
 "tiny.01-lib-oa-1-admin8.net.daraz.com",
 "tinyi2c.tt.omtrdc.net",
+"tinyns.me",
 "tinyspark.go-static.info",
 "tinytuna.tt-stage3.omtrdc.net",
 "tinyworkspace.tt.omtrdc.net",
@@ -571077,6 +571080,7 @@
 "zrnsri.vogacloset.com",
 "zrofz.spectacularacademy.com",
 "zrpfi.cheershealth.com",
+"zrraksfxccuop.online",
 "zrrjq.pinkblushmaternity.com",
 "zrsetz.shutterstock.com",
 "zrtbg.citybbq.com",
