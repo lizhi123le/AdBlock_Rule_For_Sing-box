@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -343223,6 +343222,7 @@
         "fidelity.activate.ensighten.com",
         "fidelityinternationa.tt.omtrdc.net",
         "fidelitywi.tt.omtrdc.net",
+        "fido.xhamster.com",
         "fidri.hireagogetter.com",
         "fiduciaryfirst.actonservice.com",
         "fie.alldent-zahnzentrum-dresden.de",
@@ -571851,5 +571851,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
