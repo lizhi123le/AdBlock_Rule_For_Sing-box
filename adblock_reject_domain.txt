@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-27 19:07:32
+# Generated on: 2026-10-27 22:43:08
 # Generated AdBlock rules
-# Total entries: 646993
+# Total entries: 647001
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -69543,6 +69543,7 @@
 "cdn-s5.tt.omtrdc.net",
 "cdn-sc.fortune.share.ntv.io",
 "cdn-secure-allseason.net.daraz.com",
+"cdn-settings.af-sdk.com",
 "cdn-sharerint-mo.net.daraz.com",
 "cdn-sjc12-mo.net.daraz.com",
 "cdn-sm5-prog.tt.omtrdc.net",
@@ -426487,6 +426488,7 @@
 "greenjapan-cname.green-japan.com",
 "greenlight-val.looksmart.com",
 "greenroofoutfitters.actonservice.com",
+"greentrafsa.com",
 "greentubeiesgmbh.tt.omtrdc.net",
 "greenwood-stagingcointoon.net.daraz.com",
 "greenwood.javhihi.net.daraz.com",
@@ -448446,6 +448448,7 @@
 "in54.subzeroandwolf.tt.omtrdc.net",
 "in809jdp5gn5pv1z.agriprecision.net.daraz.com",
 "inapp.picknfix.com",
+"inapps.af-sdk.com",
 "inapps.appsflyersdk.com",
 "inbdut.marinbrasil.com.br",
 "inbenta.actonservice.com",
@@ -523751,6 +523754,7 @@
 "neon.ns3.mobilecl.bellsouth.net.daraz.com",
 "neonapache.altad.share.ntv.io",
 "neoncsr21.net.anwalt.de",
+"neonewszone.lat",
 "neos.formuladoraestrella.com",
 "neos.lasentradas.com.ec",
 "neos.masterads.pro",
@@ -531016,6 +531020,7 @@
 "orgalt.share.ntv.io",
 "orgaltnew-alt.share.ntv.io",
 "organic-doberman.pikapod.net",
+"organic-package.com",
 "organicmission.ogee.com",
 "organizations.stratfor.com",
 "orgbeta-interaction.net.daraz.com",
@@ -608670,6 +608675,8 @@
 "umami.stayspiced.com",
 "umami.trackiq.com",
 "umami.trapilot.ai",
+"umami.vidfast.vc",
+"umami.vidup.to",
 "umami2.devliang.xyz",
 "umami3.devliang.xyz",
 "umami4.devliang.xyz",
@@ -624455,6 +624462,7 @@
 "widget-assets.assets.tt.omtrdc.net",
 "widget-clock.tt.omtrdc.net",
 "widget.admiral.hr",
+"widget.brambles.ai",
 "widget.centurylink.tt.omtrdc.net",
 "widget.cloud-cdn.ru",
 "widget.feedot-lawyer.ru",
