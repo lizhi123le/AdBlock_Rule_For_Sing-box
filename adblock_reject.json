@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -388398,6 +388399,7 @@
         "fespzx.sfr.fr",
         "festivals.townsquaremedia.info",
         "festivalseks-brocom.events.tt.omtrdc.net",
+        "festivehorse.com",
         "festo.actonservice.com",
         "fet-agenda.21.auth-resolveann.share.ntv.io",
         "fet-folders.21.auth-resolveann.share.ntv.io",
@@ -647010,6 +647012,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
