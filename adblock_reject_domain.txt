@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-30 19:31:51
+# Generated on: 2026-10-30 23:57:05
 # Generated AdBlock rules
-# Total entries: 647017
+# Total entries: 647019
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -35477,6 +35477,7 @@
 "aphtn.dsw.ca",
 "aphxav.green-acres.it",
 "api-abababababsupportic-stage.net.daraz.com",
+"api-abtest-cdn.learnings.ai",
 "api-access.pangolin-sdk-toutiao1.com",
 "api-achoice-stg-stage.net.daraz.com",
 "api-ad-adapter.wps.com",
@@ -425220,6 +425221,7 @@
 "goodluckboys.tt.omtrdc.net",
 "goodman-qa.tt.omtrdc.net",
 "goodnews2.goasrv.com",
+"goodpics.net",
 "goods5ai.tt.omtrdc.net",
 "goodsam.net.daraz.com",
 "goodsamaritan-nsw.goasrv.com",
