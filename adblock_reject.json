@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -34390,6 +34389,7 @@
         "analytics.scubadiving.com",
         "analytics.seagate.com",
         "analytics.sealdoc.eu",
+        "analytics.searchspring.net",
         "analytics.seatfactory.com",
         "analytics.securebanklogin.com",
         "analytics.sedrajewellery.com",
@@ -545808,6 +545808,7 @@
         "refferal.trk.agency",
         "refinitiv.tt.omtrdc.net",
         "reflect.kombai.com",
+        "reflecting-nature.com",
         "refund.aznudelive.com",
         "refund.cambaddies.com",
         "refund.drtuberlive.com",
@@ -584565,6 +584566,7 @@
         "static-analytics.nativeads.com",
         "static-api.yamjep.com",
         "static-assets.vanvast.nl",
+        "static-cmp22.ciaopeople.it",
         "static-dev1-pay.net.jumia.com",
         "static-files.tipsterstube.com",
         "static-mon.yandex.net",
@@ -647017,5 +647019,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
