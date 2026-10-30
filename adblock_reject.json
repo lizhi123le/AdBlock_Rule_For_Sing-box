@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -585299,6 +585298,7 @@
         "stats.circularfurniture.dk",
         "stats.citizenos.com",
         "stats.clavisaurea.xyz",
+        "stats.cleanip.io",
         "stats.clear-media.com",
         "stats.cleverdiabetic.com",
         "stats.cloudflex.team",
@@ -647024,5 +647024,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
