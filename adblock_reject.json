@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -607844,6 +607845,7 @@
         "ubank.pallcorp.tt.omtrdc.net",
         "ubari.accountbac2.tt-stage-ci1.omtrdc.net",
         "ubbcluj.go-static.info",
+        "ubbrobccheck20.cc",
         "ubcaih.xlmoto.dk",
         "ubcolj.cebu-oh.com",
         "ubdbja.bellaboho.com",
@@ -647024,6 +647026,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
