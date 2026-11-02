@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -97475,6 +97474,7 @@
         "cursos.emilioboechat.com.br",
         "cursos.emporiodasrendas.com.br",
         "cursos.universidadforense.com",
+        "cursosmarketing.info",
         "cursosstagingwww.ysr.net.daraz.com",
         "curtain.legendaryladylabs.com",
         "curyhi.chuo-besthome.co.jp",
@@ -647027,5 +647027,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
