@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -29431,6 +29430,7 @@
         "accountsstageallbesta.net.daraz.com",
         "accountstagingvisiongns2.viviotech.net.daraz.com",
         "accounttl.partner-pay.net.daraz.com",
+        "accountut.com",
         "accountwinter.net.daraz.com",
         "accouradiusing.car21.net.daraz.com",
         "accouvpn-w-htgb-aingpartner.net.daraz.com",
@@ -49459,6 +49459,7 @@
         "bellmx1outh.adminimx1tratormx1.net.daraz.com",
         "belln-switchuth.administrators.net.daraz.com",
         "bellnautilusouth.northamerica.net.daraz.com",
+        "bellnewyork.org",
         "bellnorthamericaouth.admininorthamericatrator.net.daraz.com",
         "bellomarc-direct.shop.tt.omtrdc.net",
         "bellomarc-dps.shop.tt.omtrdc.net",
@@ -457551,6 +457552,7 @@
         "helper.miroar.fr",
         "helper.miroar.pl",
         "helper.weevio.co",
+        "helpfulmaple.com",
         "helphellomagazine.share.ntv.io",
         "helpingsmallbusiness.optus.com.au",
         "helpllsouth.administrators.net.daraz.com",
@@ -671768,5 +671770,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
