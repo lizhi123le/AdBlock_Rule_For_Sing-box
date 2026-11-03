@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-03 17:46:13
+# Generated on: 2026-11-04 00:40:00
 # Generated AdBlock rules
-# Total entries: 671766
+# Total entries: 671769
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -38417,6 +38417,7 @@
 "api-mmjustapinch-justapinch-annjustapinch.justapinch.share.ntv.io",
 "api-mynorthwestchimera.share.ntv.io",
 "api-napoli.store.sscnapoli.it",
+"api-node.corvexa.cloud",
 "api-notify.markarch.com",
 "api-partner-cdnpre-bmsatic-partner-cdnpre-bmsage.net.daraz.com",
 "api-pixels.easyadsapp.com",
@@ -43806,6 +43807,7 @@
 "astrologieu01dbaf0840-990auyn11w0wpnuy4.0-030.net.daraz.com",
 "astromed.actonservice.com",
 "astrsk.net",
+"asttoxa.ru",
 "astuff.clicknplay.to",
 "astyem9osb71wet3.net.daraz.com",
 "astyem9osb71wet3.northamerica.net.daraz.com",
@@ -46302,7 +46304,6 @@
 "b.tradezella.com",
 "b.tridha.net",
 "b.truckertotrucker.com",
-"b.trueanthem.com",
 "b.tryknowmad.com",
 "b.tryprepit.app",
 "b.tryslate.markets",
@@ -524910,6 +524911,7 @@
 "lzjsfu.hobobags.com",
 "lzlrp.alpakagear.com",
 "lznjr.kingsize.com",
+"lzopmoas.in",
 "lzoqkmi1y31n892ovon9kfx.oelup71j7mpj6ch4u.cyou",
 "lzppar0gipijfxkc.authenticate.net.daraz.com",
 "lzppar0gipijfxkc.azure.net.daraz.com",
@@ -616599,6 +616601,7 @@
 "telemetry.doxo.com",
 "telemetry.drtuberlive.com",
 "telemetry.dzen.ru",
+"telemetry.ecosoft.group",
 "telemetry.email.tffact.com",
 "telemetry.eyeo.com",
 "telemetry.gfe.nvidia.com",
