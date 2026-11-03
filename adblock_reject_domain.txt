@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-03 16:42:10
+# Generated on: 2026-11-03 17:46:13
 # Generated AdBlock rules
-# Total entries: 671763
+# Total entries: 671766
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -29435,6 +29435,7 @@
 "accountsstageallbesta.net.daraz.com",
 "accountstagingvisiongns2.viviotech.net.daraz.com",
 "accounttl.partner-pay.net.daraz.com",
+"accountut.com",
 "accountwinter.net.daraz.com",
 "accouradiusing.car21.net.daraz.com",
 "accouvpn-w-htgb-aingpartner.net.daraz.com",
@@ -49463,6 +49464,7 @@
 "bellmx1outh.adminimx1tratormx1.net.daraz.com",
 "belln-switchuth.administrators.net.daraz.com",
 "bellnautilusouth.northamerica.net.daraz.com",
+"bellnewyork.org",
 "bellnorthamericaouth.admininorthamericatrator.net.daraz.com",
 "bellomarc-direct.shop.tt.omtrdc.net",
 "bellomarc-dps.shop.tt.omtrdc.net",
@@ -457555,6 +457557,7 @@
 "helper.miroar.fr",
 "helper.miroar.pl",
 "helper.weevio.co",
+"helpfulmaple.com",
 "helphellomagazine.share.ntv.io",
 "helpingsmallbusiness.optus.com.au",
 "helpllsouth.administrators.net.daraz.com",
