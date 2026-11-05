@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-05 16:37:53
+# Generated on: 2026-11-05 22:36:24
 # Generated AdBlock rules
-# Total entries: 671771
+# Total entries: 671773
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -107472,7 +107472,6 @@
 "data.email.podcast.adobe.com",
 "data.email.prada.com",
 "data.email.pradagroup.com",
-"data.email.premierleague.com",
 "data.email.princess.com",
 "data.email.q8.it",
 "data.email.realmadrid.com",
@@ -560192,6 +560191,7 @@
 "pbcs.nypost.com",
 "pbcs.pagesix.com",
 "pbcs.realtor.com",
+"pbd.yahoo.com",
 "pbecrm.aquanet.ru",
 "pbejavtner.net.daraz.com",
 "pbepj.gkelite.com",
@@ -560220,6 +560220,7 @@
 "pbs-nets-global-prod.tt.omtrdc.net",
 "pbs.adksrv.com",
 "pbs.inmobi.com",
+"pbs.yahoo.com",
 "pbs2.adksrv.com",
 "pbskyb.hb-api.tt.omtrdc.net",
 "pbsoe.softiespjs.com",
@@ -670892,6 +670893,7 @@
 "zovrl.machapparel.com",
 "zovurtamo.adic.swiss",
 "zowie.tt.omtrdc.net",
+"zowiedead.com",
 "zownens.net.daraz.com",
 "zowovkes.farveland-butikken.dk",
 "zozdpe.nrv.nl",
