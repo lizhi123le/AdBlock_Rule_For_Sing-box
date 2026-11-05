@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-06 00:45:44
+# Generated on: 2026-11-06 05:17:04
 # Generated AdBlock rules
-# Total entries: 698234
+# Total entries: 698236
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -436510,6 +436510,7 @@
 "fiawmk.empik.com",
 "fiber.zayo.com",
 "fibfrc.thecara.co.kr",
+"fibot-widget.fibabanka.com.tr",
 "fibqxe.lagrandeepicerie.com",
 "fibroid-gtm.dominionvascularspecialist.com",
 "fibvg.mathishome.com",
@@ -440394,6 +440395,7 @@
 "fluffyscompleatbouti.net.mydays.de",
 "flughafenberlinbrand.tt.omtrdc.net",
 "fluid-app.pickyourtrail.com",
+"fluid-player-analytics.sky.it",
 "fluidaa3.tt.omtrdc.net",
 "fluidad1.tt.omtrdc.net",
 "fluidr3.aida.tt.omtrdc.net",
