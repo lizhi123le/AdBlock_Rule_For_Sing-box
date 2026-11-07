@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-07 09:56:26
+# Generated on: 2026-11-07 15:22:16
 # Generated AdBlock rules
-# Total entries: 698241
+# Total entries: 698242
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -107320,6 +107320,7 @@
 "collector.scopely.io",
 "collector.shopstream.co",
 "collector.shorte.st",
+"collector.snowplow.supercell.com",
 "collector.snplow.net",
 "collector.statowl.com",
 "collector.superwall.me",
@@ -567462,6 +567463,7 @@
 "mkt.soprema.es",
 "mkt.sparkjapan.co.jp",
 "mkt.starmeup.com",
+"mkt.supercell.com",
 "mkt.syleg.fr",
 "mkt.t2o.com",
 "mkt.telstar.com",
@@ -659968,7 +659970,6 @@
 "unsubscribe.e.gminsurance.com",
 "unsubscribe.e.silverfernfarms.com",
 "unsubscribe.e.wellcare.com",
-"unsubscribe.email.premierleague.com",
 "unsubscribe.email.verizon.com",
 "unsubscribe.explore.westernsydney.edu.au",
 "unsubscribe.interbank.pe",
