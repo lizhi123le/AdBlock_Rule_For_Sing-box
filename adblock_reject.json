@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -590356,6 +590357,7 @@
         "pp12.conf.19.altad.share.ntv.io",
         "pp3-sdk-api.profilepassport.jp",
         "pp3-sdkdata-v2-ut.profilepassport.jp",
+        "pp3-sdkdata-v2.profilepassport.jp",
         "ppadv.actonservice.com",
         "ppao.usw.coherentbody.com",
         "ppapache.altad.share.ntv.io",
@@ -698251,6 +698253,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
