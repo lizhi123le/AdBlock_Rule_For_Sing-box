@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -52670,6 +52669,7 @@
         "analytics.dashboard.fingerprint.com",
         "analytics.data.lloydsbankinggroup.com",
         "analytics.data.visenze.com",
+        "analytics.datacite.org",
         "analytics.datahc.com",
         "analytics.datasavannah.com",
         "analytics.datascientest.com",
@@ -698253,5 +698253,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
