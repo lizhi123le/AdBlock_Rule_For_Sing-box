@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-11 04:39:53
+# Generated on: 2026-11-11 07:29:41
 # Generated AdBlock rules
-# Total entries: 698249
+# Total entries: 698253
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -506308,6 +506308,7 @@
 "ip-221-248.tt.omtrdc.net",
 "ip-adress.com",
 "ip-api.com",
+"ip-info.ff.avast.com",
 "ip-lib-oa-1-cf23region.net.daraz.com",
 "ip-license.toho.co.jp",
 "ip-tracker.org",
@@ -506685,6 +506686,7 @@
 "iplscrm.tt.omtrdc.net",
 "iplsidesectiontableview.tt.omtrdc.net",
 "iplsin043web-vpn-prod16-12.net.daraz.com",
+"ipm-provider.ff.avast.com",
 "ipm.adblockplus.dev",
 "ipm.hyattcorporation.tt.omtrdc.net",
 "ipm.tt.omtrdc.net",
@@ -572497,6 +572499,7 @@
 "ncbnu01t97qtsvex.docs.net.daraz.com",
 "ncbnu01t97qtsvex.net.daraz.com",
 "ncbvr.workmanusa.com",
+"ncc.avast.com",
 "ncc.nip-col.jp",
 "nccaf.ncc-mens.com",
 "nccbp.apothekerblatt.com",
@@ -611358,6 +611361,7 @@
 "shellenergymarketing.shell.com",
 "shelterorgtarget.tt.omtrdc.net",
 "sheoil.newyorkandcompany.com",
+"shepherd.ff.avast.com",
 "sherlock-events-sampler.ebay.com",
 "sherlock.gessikanogueira.com.br",
 "sherlock.getcreatr.com",
