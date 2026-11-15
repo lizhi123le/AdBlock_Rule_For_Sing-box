@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -64762,6 +64763,7 @@
         "beacon.us-east-2.internal.dradis.netflix.com",
         "beacon.us-west-2.internal.dradis.netflix.com",
         "beacon.vertebrae-axis.com",
+        "beacon.viafoura.io",
         "beacon.walmart.ca",
         "beacon.walmart.com",
         "beacon.watch.impress.co.jp",
@@ -562629,6 +562631,7 @@
         "membership.mortonarb.org",
         "membership.tentrinitysquare.com",
         "memberwww.partner.net.daraz.com",
+        "memcyco.com",
         "memelq.acs.org",
         "memhosp.hrm.healthgrades.com",
         "memjo.theshoecareshop.com",
@@ -699630,6 +699633,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
