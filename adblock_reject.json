@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -51986,6 +51985,7 @@
         "amazimaministries.xham.live",
         "amazing.tagpeak.com",
         "amazingentri.stape.dev",
+        "amazingfork.com",
         "amazon-email.branch.rocks",
         "amazon-location-dev.share.ntv.io",
         "amazonfreight.tt.omtrdc.net",
@@ -86916,6 +86916,7 @@
         "cassia-re12stagingonbert2mp3.net.daraz.com",
         "cassia-re12stagingr.net.daraz.com",
         "cassia-re12stagingstagingwww.ysr.net.daraz.com",
+        "cast-imp.jtbc.co.kr",
         "cast.net.anwalt.de",
         "castle-stagingwww.ysr.net.daraz.com",
         "castlesandmanorhouses.tt.omtrdc.net",
@@ -637166,6 +637167,7 @@
         "stats.pronouns.page",
         "stats.propublica.org",
         "stats.protoelectro.com",
+        "stats.proxypurity.com",
         "stats.psychotherapieravensburg.de",
         "stats.psykedeliskportal.dk",
         "stats.pttrn.io",
@@ -699635,5 +699637,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
