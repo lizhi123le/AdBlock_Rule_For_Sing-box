@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-16 17:44:15
+# Generated on: 2026-11-16 23:24:44
 # Generated AdBlock rules
-# Total entries: 699630
+# Total entries: 699633
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -51990,6 +51990,7 @@
 "amazimaministries.xham.live",
 "amazing.tagpeak.com",
 "amazingentri.stape.dev",
+"amazingfork.com",
 "amazon-email.branch.rocks",
 "amazon-location-dev.share.ntv.io",
 "amazonfreight.tt.omtrdc.net",
@@ -86920,6 +86921,7 @@
 "cassia-re12stagingonbert2mp3.net.daraz.com",
 "cassia-re12stagingr.net.daraz.com",
 "cassia-re12stagingstagingwww.ysr.net.daraz.com",
+"cast-imp.jtbc.co.kr",
 "cast.net.anwalt.de",
 "castle-stagingwww.ysr.net.daraz.com",
 "castlesandmanorhouses.tt.omtrdc.net",
@@ -637170,6 +637172,7 @@
 "stats.pronouns.page",
 "stats.propublica.org",
 "stats.protoelectro.com",
+"stats.proxypurity.com",
 "stats.psychotherapieravensburg.de",
 "stats.psykedeliskportal.dk",
 "stats.pttrn.io",
