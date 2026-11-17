@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -63174,6 +63175,7 @@
         "badanie.myavlive.com",
         "badca2b671106b80998603cd95209eb3.myavlive.com",
         "baddream.net.daraz.com",
+        "badge.dimensions.ai",
         "badreahstagehasani.net.daraz.com",
         "badschmiedeberg.net.daraz.com",
         "badwolf.open-election-compass.com",
@@ -70451,6 +70453,7 @@
         "bialkowskir2.myavlive.com",
         "bialykamien-homebiuro.biuroakces.tt.omtrdc.net",
         "bianca-latest-iap.tt.omtrdc.net",
+        "bianopixel.com",
         "bibglj.timberland.fr",
         "bibione-stagehasani.net.daraz.com",
         "bibione.stagemymangaonline.net.daraz.com",
@@ -109620,6 +109623,7 @@
         "connect.leica-geosystems.com",
         "connect.leniqo.com",
         "connect.leoforce.com",
+        "connect.liblynx.com",
         "connect.lightera.com",
         "connect.link.boone.health",
         "connect.lionsclubs.org",
@@ -699637,6 +699641,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
