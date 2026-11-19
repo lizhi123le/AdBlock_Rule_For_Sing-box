@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-19 08:23:27
+# Generated on: 2026-11-19 12:08:37
 # Generated AdBlock rules
-# Total entries: 699636
+# Total entries: 699638
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -106984,6 +106984,7 @@
 "cogent.mboxedge34-alb02.tt.omtrdc.net",
 "cognify.tt-qe-ci1.omtrdc.net",
 "cognition.tt-qe2.omtrdc.net",
+"cognitivlabs.com",
 "cognito-idp.tt-qe2.omtrdc.net",
 "cognitohq.makemytrip.tt.omtrdc.net",
 "cognizantsolutions.hdfclife.tt.omtrdc.net",
@@ -595423,6 +595424,7 @@
 "rain.franzy.com",
 "rain.journey.com",
 "rainbow-prod-jdlog.ldoverseas.com",
+"rainbow.sheepesports.com",
 "rainmaker.production-public.tubi.io",
 "rainmaker4.production-public.tubi.io",
 "raio.obraxray.com",
