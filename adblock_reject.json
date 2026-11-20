@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -40519,6 +40518,7 @@
         "a.meinmpp.de",
         "a.melodyofus.com",
         "a.meloja.com.br",
+        "a.menards.com",
         "a.mercuriurval.com",
         "a.mi-clos.com",
         "a.mi-imc.com",
@@ -639755,7 +639755,6 @@
         "sxvkhq.downlights.co.uk",
         "sxwxswg8z1xe.www.arnowebtv.com",
         "sxyemx.micollarconnombre.com",
-        "sy.ameba.jp",
         "sy.nicdecor.com",
         "sy1.nicdecor.com",
         "sy2kpnlbujuzd3t-p.adktrack34.xyz",
@@ -699645,5 +699644,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
