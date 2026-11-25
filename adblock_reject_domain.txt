@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-25 12:38:27
+# Generated on: 2026-11-25 23:00:07
 # Generated AdBlock rules
-# Total entries: 784979
+# Total entries: 784986
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -52491,6 +52491,7 @@
 "analytics.devshivan.com",
 "analytics.dga.org",
 "analytics.diatelos.com",
+"analytics.did.kr",
 "analytics.digiplace.site",
 "analytics.digitaleyes.ai",
 "analytics.digitalscale.pro",
@@ -144098,6 +144099,7 @@
 "download.frndsoffrnds.com",
 "download.frolit.io",
 "download.futurefoodtechsf.com",
+"download.gameanalytics.com",
 "download.gcc.tt.omtrdc.net",
 "download.getneema.com",
 "download.idemia-group.com",
@@ -146341,6 +146343,7 @@
 "dsgsvc.wattano.de",
 "dsgtas.cyberark.tt.omtrdc.net",
 "dsh-dev.grundfosholdingas.tt.omtrdc.net",
+"dsh-otel-collector.deepseeksvc.com",
 "dsh1ct2zrfakt.cloudfront.net",
 "dsharando-us1.tt.omtrdc.net",
 "dsharelatextsharelatex.donaldson.tt.omtrdc.net",
@@ -464705,6 +464708,7 @@
 "foyer.rogerscommunicaitonp.tt.omtrdc.net",
 "foyer55-lvs.tt.omtrdc.net",
 "foysal.desishad.com",
+"fozekikikiminu.com",
 "fozmeadowsstaging.net.daraz.com",
 "fozmeadowsstagingstage-parmakla.net.daraz.com",
 "fozmeadowsstagingstage.esportesdasorte.net.daraz.com",
@@ -703486,6 +703490,7 @@
 "stms.transforminglives.co.uk",
 "stmsoidtslib-ht-1.net.daraz.com",
 "stmstaging1.foh.tt.omtrdc.net",
+"stmtag.ru",
 "stmtk.goasrv.com",
 "stmtsi4.tt-qe2.omtrdc.net",
 "stmua.automobileclubofsout.tt.omtrdc.net",
@@ -709800,6 +709805,7 @@
 "tag.applytoweld.com",
 "tag.aromatico.de",
 "tag.atasunoptik.com.tr",
+"tag.atom.gamedistribution.com",
 "tag.aumago.com",
 "tag.b-sync.ch",
 "tag.beyondcarat.com",
@@ -721258,6 +721264,7 @@
 "track.dictum-gartenwerkzeug.de",
 "track.dictum-handwerksgalerie.de",
 "track.dictum-shop.de",
+"track.did.kr",
 "track.die-gams.info",
 "track.diethackz.com",
 "track.difaty.com.br",
