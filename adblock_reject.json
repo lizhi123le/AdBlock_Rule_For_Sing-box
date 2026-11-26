@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -628064,6 +628063,7 @@
         "pamvc.sexymodest.com",
         "pamzqm.yitechnology.com",
         "pan-switchtnen-switch.net.daraz.com",
+        "pan.pazarama.com",
         "pan2.connect.tt.omtrdc.net",
         "pana.regcytech.com",
         "panama-gamma.eu-west-1.tt.omtrdc.net",
@@ -784993,5 +784993,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
