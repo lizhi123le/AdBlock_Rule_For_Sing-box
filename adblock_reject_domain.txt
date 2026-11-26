@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-26 20:35:00
+# Generated on: 2026-11-26 23:50:03
 # Generated AdBlock rules
-# Total entries: 784988
+# Total entries: 784989
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -628068,6 +628068,7 @@
 "pamvc.sexymodest.com",
 "pamzqm.yitechnology.com",
 "pan-switchtnen-switch.net.daraz.com",
+"pan.pazarama.com",
 "pan2.connect.tt.omtrdc.net",
 "pana.regcytech.com",
 "panama-gamma.eu-west-1.tt.omtrdc.net",
