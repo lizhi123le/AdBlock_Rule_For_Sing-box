@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-27 11:50:36
+# Generated on: 2026-11-27 17:07:23
 # Generated AdBlock rules
-# Total entries: 784992
+# Total entries: 784994
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -64114,6 +64114,7 @@
 "bealumniav.net.daraz.com",
 "beam-2.tt-qe5.omtrdc.net",
 "beam.bereach.ai",
+"beam.denikn.cz",
 "beam.ecomms.beamconnect.com.au",
 "beam.remp.impresa.pt",
 "beam.sciencehunter.co.id",
@@ -711015,6 +711016,7 @@
 "targetspot.com",
 "targetstore.actonservice.com",
 "targettur.www.svenskaspel.se",
+"tarqivo.com",
 "tarsier.emitremmus.com",
 "tarsier.kriterie.se",
 "tartanmarketing.actonservice.com",
